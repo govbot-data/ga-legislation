@@ -1,4 +1,4 @@
-# 🏛️ ga legislation file tree
+# 🏛️ Georgia legislation file tree
 
 Download a copy of your states legislation.
 
