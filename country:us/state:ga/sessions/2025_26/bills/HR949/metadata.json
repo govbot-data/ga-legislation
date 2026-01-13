@@ -27,6 +27,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:01Z"
       }
+    },
+    {
+      "description": "House Withdrawn Bill/Res Consideration",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-13T12:50:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,18 +92,18 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "LC 112 3303/a",
+      "note": "HR 949 - withdrawn",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/239178.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/239611.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 239178,
-        "_version_id": 2
+        "_internal_document_id": 239611,
+        "_version_id": 3
       }
     }
   ],
@@ -123,6 +133,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:01Z"
+    "logs_latest_update": "2026-01-13T12:50:37Z"
   }
 }

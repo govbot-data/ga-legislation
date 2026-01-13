@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Recommitted",
+    "date": "2026-01-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "State and Local Governmental Operations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 521"
+}
