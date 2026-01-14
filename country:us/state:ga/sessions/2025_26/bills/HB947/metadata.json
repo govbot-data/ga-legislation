@@ -27,6 +27,18 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:49:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -55,14 +67,6 @@
       "organization_id": null
     },
     {
-      "name": "Alan Powell",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Alan Powell\"}",
-      "organization_id": null
-    },
-    {
       "name": "Todd Jones",
       "classification": "primary",
       "entity_type": "person",
@@ -76,6 +80,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Trey Kelley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mitchell Scoggins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mitchell Scoggins\"}",
       "organization_id": null
     }
   ],
@@ -123,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-01-14T12:49:55Z"
   }
 }

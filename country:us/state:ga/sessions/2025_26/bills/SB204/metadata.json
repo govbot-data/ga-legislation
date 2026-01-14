@@ -216,15 +216,25 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:03Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:49:55Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Harold Jones II",
+      "name": "Colton Moore",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Harold Jones II\"}",
+      "person_id": "~{\"name\": \"Colton Moore\"}",
       "organization_id": null
     },
     {
@@ -263,6 +273,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SB 204/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/239795.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 239795,
+        "_version_id": 12
+      }
+    },
+    {
       "note": "LC 49 2425S/hrcs",
       "links": [
         {
@@ -274,6 +299,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 239165,
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 39 0496",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/239656.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 239656,
         "_version_id": 9
       }
     },
@@ -349,6 +389,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:03Z"
+    "logs_latest_update": "2026-01-14T12:49:55Z"
   }
 }
