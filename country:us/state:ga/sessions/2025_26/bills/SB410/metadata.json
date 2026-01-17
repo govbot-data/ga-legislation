@@ -27,6 +27,24 @@
       "_processing": {
         "log_file_created": "2026-01-16T12:47:57Z"
       }
+    },
+    {
+      "description": "Senate Read and Referred",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-17T12:41:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,6 +127,54 @@
       "primary": true,
       "person_id": "~{\"name\": \"Shawn Still\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mike Hodges",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Hodges\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Drew Echols",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Drew Echols\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rick Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Strickland",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brian Strickland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russ Goodman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Russ Goodman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bo Hatchett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bo Hatchett\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -155,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-16T12:47:57Z"
+    "logs_latest_update": "2026-01-17T12:41:37Z"
   }
 }
