@@ -39,6 +39,18 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:41:37Z"
       }
+    },
+    {
+      "description": "House Second Readers",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:53:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -135,6 +147,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:41:37Z"
+    "logs_latest_update": "2026-01-28T12:53:26Z"
   }
 }

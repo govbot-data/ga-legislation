@@ -45,6 +45,25 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:03Z"
       }
+    },
+    {
+      "description": "Senate Withdrawn & Recommitted",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee",
+        "withdrawal"
+      ],
+      "related_entities": [
+        {
+          "name": "Urban Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-28T12:53:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -89,11 +108,11 @@
       "organization_id": null
     },
     {
-      "name": "Nabilah Islam Parkes",
+      "name": "Nabilah Parkes",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Nabilah Islam Parkes\"}",
+      "person_id": "~{\"name\": \"Nabilah Parkes\"}",
       "organization_id": null
     },
     {
@@ -213,6 +232,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:03Z"
+    "logs_latest_update": "2026-01-28T12:53:26Z"
   }
 }
