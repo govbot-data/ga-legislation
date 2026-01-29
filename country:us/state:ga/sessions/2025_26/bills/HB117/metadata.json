@@ -215,6 +215,24 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:59:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -262,18 +280,18 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Sen Ctee sub LC 60 0166S",
+      "note": "Sen Ctee Sub LC 60 0252S",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/238208.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/240495.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 238208,
-        "_version_id": 9
+        "_internal_document_id": 240495,
+        "_version_id": 11
       }
     },
     {
@@ -288,7 +306,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 232919,
-        "_version_id": 7
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "Sen Ctee sub LC 60 0166S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/238208.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 238208,
+        "_version_id": 8
       }
     },
     {
@@ -363,6 +396,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-01-29T12:59:59Z"
   }
 }

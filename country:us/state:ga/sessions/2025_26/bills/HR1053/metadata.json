@@ -27,6 +27,18 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:53:26Z"
       }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:59:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -36,30 +48,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"David Clark\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mitchell Horner",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mitchell Horner\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Reynaldo Martinez",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Reynaldo Martinez\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Josh Bonner",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Josh Bonner\"}",
       "organization_id": null
     }
   ],
@@ -107,6 +95,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:53:26Z"
+    "logs_latest_update": "2026-01-29T12:59:59Z"
   }
 }

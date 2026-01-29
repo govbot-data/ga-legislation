@@ -215,6 +215,24 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:59:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -270,48 +288,18 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Sen Ctee sub LC 49 2400S",
+      "note": "Sen Ctee Sub LC 48 1663S",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/238212.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/240496.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 238212,
-        "_version_id": 11
-      }
-    },
-    {
-      "note": "Sen Floor Amend 2 AM 48 0060",
-      "links": [
-        {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/238976.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "",
-      "extras": {
-        "_internal_document_id": 238976,
-        "_version_id": 10
-      }
-    },
-    {
-      "note": "Sen Floor Amend 1 AM 48 0058",
-      "links": [
-        {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/238821.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "",
-      "extras": {
-        "_internal_document_id": 238821,
-        "_version_id": 8
+        "_internal_document_id": 240496,
+        "_version_id": 13
       }
     },
     {
@@ -326,7 +314,52 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 235622,
-        "_version_id": 5
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Sen Ctee sub LC 49 2400S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/238212.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 238212,
+        "_version_id": 10
+      }
+    },
+    {
+      "note": "Sen Floor Amend 2 AM 48 0060",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/238976.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 238976,
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 48 0058",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/238821.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 238821,
+        "_version_id": 7
       }
     },
     {
@@ -386,6 +419,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-01-29T12:59:59Z"
   }
 }

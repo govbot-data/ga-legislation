@@ -113,6 +113,24 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Regulated Industries and Utilities",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:59:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -176,18 +194,18 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Committee sub LC 55 0532S",
+      "note": "Committee Sub LC 56 0528S",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/233524.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/240504.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 233524,
-        "_version_id": 4
+        "_internal_document_id": 240504,
+        "_version_id": 6
       }
     },
     {
@@ -202,6 +220,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 232053,
+        "_version_id": 4
+      }
+    },
+    {
+      "note": "Committee sub LC 55 0532S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/233524.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 233524,
         "_version_id": 2
       }
     }
@@ -232,6 +265,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-01-29T12:59:59Z"
   }
 }

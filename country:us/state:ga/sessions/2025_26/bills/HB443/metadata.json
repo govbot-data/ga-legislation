@@ -185,6 +185,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:02Z"
       }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub As Amended",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-29T12:59:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -239,6 +249,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Floor Amendment AM 44 0239",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/240498.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 240498,
+        "_version_id": 9
+      }
+    },
     {
       "note": "SCSFA to HB 443",
       "links": [
@@ -326,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:02Z"
+    "logs_latest_update": "2026-01-29T12:59:59Z"
   }
 }
