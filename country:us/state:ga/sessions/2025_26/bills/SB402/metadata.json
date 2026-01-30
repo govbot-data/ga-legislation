@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025_26",
   "identifier": "SB 402",
-  "title": "Children and Youth; pilot program provision for screenings, clinical evaluations, training  for autism spectrum disorder to children in foster care; establish",
+  "title": "Children and Youth; pilot program provision for screenings, clinical evaluations, training for autism spectrum disorder to children in foster care; establish",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -62,6 +62,18 @@
       ],
       "_processing": {
         "log_file_created": "2026-01-29T12:59:59Z"
+      }
+    },
+    {
+      "description": "Senate Read Second Time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-30T12:58:02Z"
       }
     }
   ],
@@ -286,6 +298,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-29T12:59:59Z"
+    "logs_latest_update": "2026-01-30T12:58:02Z"
   }
 }
