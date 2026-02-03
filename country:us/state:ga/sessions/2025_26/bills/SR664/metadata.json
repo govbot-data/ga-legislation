@@ -27,6 +27,18 @@
       "_processing": {
         "log_file_created": "2026-01-30T12:58:03Z"
       }
+    },
+    {
+      "description": "Senate Read and Adopted",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-03T13:03:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -243,6 +255,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:58:03Z"
+    "logs_latest_update": "2026-02-03T13:03:18Z"
   }
 }

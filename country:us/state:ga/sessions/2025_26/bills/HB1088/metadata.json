@@ -27,6 +27,18 @@
       "_processing": {
         "log_file_created": "2026-01-30T12:58:03Z"
       }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-03T13:03:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,14 +80,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Stacey Evans\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lee Hawkins",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Lee Hawkins\"}",
       "organization_id": null
     }
   ],
@@ -123,6 +127,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:58:03Z"
+    "logs_latest_update": "2026-02-03T13:03:18Z"
   }
 }

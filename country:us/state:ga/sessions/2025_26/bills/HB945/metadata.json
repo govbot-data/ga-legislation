@@ -51,6 +51,24 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:49:07Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Banks & Banking",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-03T13:03:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,6 +99,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 62 0310S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241018.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241018,
+        "_version_id": 4
+      }
+    },
     {
       "note": "LC 62 0256/a",
       "links": [
@@ -123,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:49:07Z"
+    "logs_latest_update": "2026-02-03T13:03:18Z"
   }
 }

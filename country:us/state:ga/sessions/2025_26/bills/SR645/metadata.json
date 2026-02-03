@@ -39,6 +39,40 @@
       "_processing": {
         "log_file_created": "2026-01-30T12:58:03Z"
       }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-03T13:03:18Z"
+      }
+    },
+    {
+      "description": "House Read and Adopted",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-03T13:03:18Z"
+      }
+    },
+    {
+      "description": "House Immediately Transmitted to Senate",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-03T13:03:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,6 +128,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SR 645/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241250.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241250,
+        "_version_id": 7
+      }
+    },
+    {
       "note": "Adopted Senate",
       "links": [
         {
@@ -105,7 +154,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 240811,
-        "_version_id": 5
+        "_version_id": 6
       }
     },
     {
@@ -120,7 +169,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 240785,
-        "_version_id": 4
+        "_version_id": 5
       }
     },
     {
@@ -135,7 +184,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 240810,
-        "_version_id": 2
+        "_version_id": 3
       }
     }
   ],
@@ -165,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:58:03Z"
+    "logs_latest_update": "2026-02-03T13:03:18Z"
   }
 }
