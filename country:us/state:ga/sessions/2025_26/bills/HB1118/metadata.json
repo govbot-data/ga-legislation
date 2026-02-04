@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025_26",
   "identifier": "HB 1118",
-  "title": "Public officers and employees; 80 hours of maternal birth leave; provide",
+  "title": "Public officers and employees; 120 hours of maternal birth leave; provide",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -26,6 +26,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-03T13:03:18Z"
+      }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-04T13:01:58Z"
       }
     }
   ],
@@ -123,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-03T13:03:18Z"
+    "logs_latest_update": "2026-02-04T13:01:58Z"
   }
 }

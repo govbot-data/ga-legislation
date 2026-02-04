@@ -159,6 +159,24 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-04T13:01:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -206,18 +224,18 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Sen Ctee Sub LC 57 0278S",
+      "note": "Sen Ctee Sub LC 63 0073S",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/237050.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241287.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 237050,
-        "_version_id": 4
+        "_internal_document_id": 241287,
+        "_version_id": 6
       }
     },
     {
@@ -232,7 +250,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 229988,
-        "_version_id": 2
+        "_version_id": 4
+      }
+    },
+    {
+      "note": "Sen Ctee Sub LC 57 0278S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/237050.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 237050,
+        "_version_id": 3
       }
     }
   ],
@@ -262,6 +295,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-02-04T13:01:58Z"
   }
 }
