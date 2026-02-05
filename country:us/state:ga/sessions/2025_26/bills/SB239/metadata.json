@@ -161,6 +161,24 @@
       "_processing": {
         "log_file_created": "2026-02-03T13:03:18Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-05T13:05:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -207,6 +225,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Committee Sub LC 56 0532S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241448.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241448,
+        "_version_id": 8
+      }
+    },
     {
       "note": "Committee Sub LC 56 0529S",
       "links": [
@@ -279,6 +312,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-03T13:03:18Z"
+    "logs_latest_update": "2026-02-05T13:05:02Z"
   }
 }
