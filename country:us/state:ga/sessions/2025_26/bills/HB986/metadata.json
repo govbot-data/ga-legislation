@@ -51,6 +51,24 @@
       "_processing": {
         "log_file_created": "2026-01-28T12:53:26Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Technology and Infrastructure Innovation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:02:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,6 +157,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-28T12:53:26Z"
+    "logs_latest_update": "2026-02-06T13:02:07Z"
   }
 }

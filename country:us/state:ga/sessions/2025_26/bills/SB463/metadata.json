@@ -27,6 +27,24 @@
       "_processing": {
         "log_file_created": "2026-02-05T13:05:02Z"
       }
+    },
+    {
+      "description": "Senate Read and Referred",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Tourism",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:02:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -173,6 +191,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Ben Watson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Russ Goodman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Russ Goodman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -219,6 +245,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T13:05:02Z"
+    "logs_latest_update": "2026-02-06T13:02:07Z"
   }
 }

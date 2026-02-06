@@ -45,6 +45,24 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Retirement",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:02:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -99,6 +117,51 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Committee Sub LC 56 0555S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241695.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241695,
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "Actuarial Investigation",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241697.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241697,
+        "_version_id": 5
+      }
+    },
+    {
+      "note": "Auditor's Certification",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241696.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241696,
+        "_version_id": 4
+      }
+    },
     {
       "note": "As introduced LC 56 0297",
       "links": [
@@ -156,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-02-06T13:02:07Z"
   }
 }

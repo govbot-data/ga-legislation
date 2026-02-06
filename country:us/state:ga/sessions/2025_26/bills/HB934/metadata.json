@@ -51,6 +51,24 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:49:07Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Banks & Banking",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-06T13:02:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,10 +111,33 @@
       "primary": true,
       "person_id": "~{\"name\": \"James Burchett\"}",
       "organization_id": null
+    },
+    {
+      "name": "Carter Barrett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carter Barrett\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 62 0362S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241597.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241597,
+        "_version_id": 4
+      }
+    },
     {
       "note": "LC 62 0259/a",
       "links": [
@@ -139,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:49:07Z"
+    "logs_latest_update": "2026-02-06T13:02:07Z"
   }
 }
