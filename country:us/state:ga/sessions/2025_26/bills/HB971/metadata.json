@@ -51,6 +51,24 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:41:37Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:51:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +165,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:41:37Z"
+    "logs_latest_update": "2026-02-07T12:51:53Z"
   }
 }

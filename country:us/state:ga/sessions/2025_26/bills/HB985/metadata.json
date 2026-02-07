@@ -93,6 +93,24 @@
       "_processing": {
         "log_file_created": "2026-02-06T13:02:07Z"
       }
+    },
+    {
+      "description": "Senate Read and Referred",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Veterans, Military, and Homeland Security",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:51:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -189,6 +207,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T13:02:07Z"
+    "logs_latest_update": "2026-02-07T12:51:53Z"
   }
 }

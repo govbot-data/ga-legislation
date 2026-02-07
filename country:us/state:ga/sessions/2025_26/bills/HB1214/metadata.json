@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL to be entitled an Act to amend Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to sales and use taxes, so as to provide for a new special purpose local option sales tax dedicated to certain healthcare purposes; to provide for definitions; to provide for authorization of tax and applicability;to provide for accountability and the withholding of funds by the state; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes."
+      "abstract": "A BILL to be entitled an Act to amend Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to sales and use taxes, so as to provide for a new special purpose local option sales tax dedicated to certain healthcare purposes; to provide for definitions; to provide for authorization of tax and applicability; to provide for accountability and the withholding of funds by the state; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes."
     }
   ],
   "other_titles": [],
@@ -26,6 +26,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-06T13:02:07Z"
+      }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:51:53Z"
       }
     }
   ],
@@ -123,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T13:02:07Z"
+    "logs_latest_update": "2026-02-07T12:51:53Z"
   }
 }

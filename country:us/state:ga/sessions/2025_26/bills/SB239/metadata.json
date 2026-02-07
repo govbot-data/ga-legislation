@@ -203,6 +203,18 @@
       "_processing": {
         "log_file_created": "2026-02-06T13:02:07Z"
       }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-07T12:51:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -280,6 +292,21 @@
       }
     },
     {
+      "note": "As introduced LC 55 0528",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/233446.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 233446,
+        "_version_id": 6
+      }
+    },
+    {
       "note": "Committee Sub LC 56 0529S",
       "links": [
         {
@@ -291,7 +318,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 240506,
-        "_version_id": 6
+        "_version_id": 4
       }
     },
     {
@@ -306,21 +333,6 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 241020,
-        "_version_id": 4
-      }
-    },
-    {
-      "note": "As introduced LC 55 0528",
-      "links": [
-        {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/233446.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "",
-      "extras": {
-        "_internal_document_id": 233446,
         "_version_id": 2
       }
     }
@@ -351,6 +363,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-06T13:02:07Z"
+    "logs_latest_update": "2026-02-07T12:51:53Z"
   }
 }
