@@ -123,6 +123,24 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary Non-Civil",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:16:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -266,6 +284,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 48 1726S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241956.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241956,
+        "_version_id": 7
+      }
+    },
+    {
       "note": "As Passed Senate",
       "links": [
         {
@@ -337,6 +370,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-02-10T13:16:27Z"
   }
 }

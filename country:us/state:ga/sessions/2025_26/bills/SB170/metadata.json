@@ -185,6 +185,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub As Amended",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-10T13:16:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -235,6 +245,51 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 237866,
+        "_version_id": 14
+      }
+    },
+    {
+      "note": "SFA to SB 170",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242028.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242028,
+        "_version_id": 12
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 60 0012",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241984.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241984,
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1A AM 60 0016",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242002,
         "_version_id": 9
       }
     },
@@ -310,6 +365,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-02-10T13:16:27Z"
   }
 }
