@@ -175,6 +175,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:03Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub As Amended",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:13:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -241,6 +251,51 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 239197,
+        "_version_id": 20
+      }
+    },
+    {
+      "note": "HB 54/SFA",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242270.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242270,
+        "_version_id": 18
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 33 2114",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242188.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242188,
+        "_version_id": 17
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1A AM 49 0283",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242189.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242189,
         "_version_id": 15
       }
     },
@@ -391,6 +446,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:03Z"
+    "logs_latest_update": "2026-02-11T13:13:15Z"
   }
 }

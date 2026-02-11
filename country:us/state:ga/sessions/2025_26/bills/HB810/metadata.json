@@ -51,6 +51,24 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:02Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:13:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -106,6 +124,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 46 1418S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242126.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242126,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "LC 46 1212/a",
       "links": [
         {
@@ -147,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:02Z"
+    "logs_latest_update": "2026-02-11T13:13:15Z"
   }
 }

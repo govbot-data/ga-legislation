@@ -75,6 +75,30 @@
       "_processing": {
         "log_file_created": "2026-02-05T13:05:02Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:13:15Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-11T13:13:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -258,6 +282,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242199.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242199,
+        "_version_id": 5
+      }
+    },
+    {
       "note": "Committee Sub LC 39 4893S",
       "links": [
         {
@@ -314,6 +353,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T13:05:02Z"
+    "logs_latest_update": "2026-02-11T13:13:15Z"
   }
 }
