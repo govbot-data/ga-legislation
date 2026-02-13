@@ -209,6 +209,30 @@
       "_processing": {
         "log_file_created": "2026-02-11T13:13:15Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T13:02:38Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-13T13:02:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -350,6 +374,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T13:13:15Z"
+    "logs_latest_update": "2026-02-13T13:02:38Z"
   }
 }

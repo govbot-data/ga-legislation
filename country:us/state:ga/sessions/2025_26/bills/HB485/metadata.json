@@ -159,6 +159,24 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Government Oversight",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-13T13:02:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -206,18 +224,18 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Sen Ctee sub LC 39 4767S",
+      "note": "Sen Ctee Sub LC 39 4922S",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/236548.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242465.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 236548,
-        "_version_id": 7
+        "_internal_document_id": 242465,
+        "_version_id": 9
       }
     },
     {
@@ -232,7 +250,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 235414,
-        "_version_id": 5
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "Sen Ctee sub LC 39 4767S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/236548.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 236548,
+        "_version_id": 6
       }
     },
     {
@@ -292,6 +325,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-02-13T13:02:38Z"
   }
 }

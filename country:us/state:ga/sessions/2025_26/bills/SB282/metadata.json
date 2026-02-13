@@ -45,6 +45,25 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:02Z"
       }
+    },
+    {
+      "description": "Senate Withdrawn & Recommitted",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee",
+        "withdrawal"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture and Consumer Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-13T13:02:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:02Z"
+    "logs_latest_update": "2026-02-13T13:02:38Z"
   }
 }

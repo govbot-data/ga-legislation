@@ -51,6 +51,24 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:03Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Retirement",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-13T13:02:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,10 +111,48 @@
       "primary": true,
       "person_id": "~{\"name\": \"Rick Townsend\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tangie Herring",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tangie Herring\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 56 0420S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242541.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242541,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "Auditor's Certification LC 56 0420S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242567.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242567,
+        "_version_id": 5
+      }
+    },
     {
       "note": "LC 56 0278/a",
       "links": [
@@ -154,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:03Z"
+    "logs_latest_update": "2026-02-13T13:02:38Z"
   }
 }
