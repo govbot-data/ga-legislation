@@ -69,6 +69,25 @@
       "_processing": {
         "log_file_created": "2026-02-12T13:10:46Z"
       }
+    },
+    {
+      "description": "House Withdrawn, Recommitted",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee",
+        "withdrawal"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways & Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-18T13:07:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +199,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T13:10:46Z"
+    "logs_latest_update": "2026-02-18T13:07:07Z"
   }
 }

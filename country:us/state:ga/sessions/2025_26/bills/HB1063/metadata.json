@@ -88,6 +88,30 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:51:53Z"
       }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T13:07:07Z"
+      }
+    },
+    {
+      "description": "House Passed/Adopted By Substitute",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T13:07:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -142,6 +166,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 60 0283S/hcs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242805.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242805,
+        "_version_id": 5
+      }
+    },
     {
       "note": "LC 60 0283S/hs",
       "links": [
@@ -199,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:51:53Z"
+    "logs_latest_update": "2026-02-18T13:07:07Z"
   }
 }

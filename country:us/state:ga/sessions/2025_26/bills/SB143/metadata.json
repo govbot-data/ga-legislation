@@ -75,6 +75,30 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:51:53Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T13:07:07Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T13:07:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -130,6 +154,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242823.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242823,
+        "_version_id": 8
+      }
+    },
+    {
       "note": "Committee Sub LC 56 0555S",
       "links": [
         {
@@ -145,21 +184,6 @@
       }
     },
     {
-      "note": "Actuarial Investigation",
-      "links": [
-        {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/241697.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "",
-      "extras": {
-        "_internal_document_id": 241697,
-        "_version_id": 5
-      }
-    },
-    {
       "note": "Auditor's Certification",
       "links": [
         {
@@ -171,6 +195,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 241696,
+        "_version_id": 5
+      }
+    },
+    {
+      "note": "Actuarial Investigation",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/241697.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 241697,
         "_version_id": 4
       }
     },
@@ -231,6 +270,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:51:53Z"
+    "logs_latest_update": "2026-02-18T13:07:07Z"
   }
 }

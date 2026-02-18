@@ -51,6 +51,48 @@
       "_processing": {
         "log_file_created": "2026-02-11T13:13:15Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Intragovernmental Coordination",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-18T13:07:07Z"
+      }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T13:07:07Z"
+      }
+    },
+    {
+      "description": "House Passed/Adopted By Substitute",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-18T13:07:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -73,6 +115,36 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 41 4012S/hcs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242662.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242662,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "LC 41 4012S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242660.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242660,
+        "_version_id": 5
+      }
+    },
     {
       "note": "LC 47 3985/a",
       "links": [
@@ -130,6 +202,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-11T13:13:15Z"
+    "logs_latest_update": "2026-02-18T13:07:07Z"
   }
 }
