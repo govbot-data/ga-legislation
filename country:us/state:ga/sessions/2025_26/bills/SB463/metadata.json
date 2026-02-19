@@ -63,6 +63,18 @@
       "_processing": {
         "log_file_created": "2026-02-18T13:07:07Z"
       }
+    },
+    {
+      "description": "Senate Read Second Time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:08:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -278,6 +290,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T13:07:07Z"
+    "logs_latest_update": "2026-02-19T13:08:18Z"
   }
 }

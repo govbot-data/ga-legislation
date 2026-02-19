@@ -51,6 +51,25 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:01Z"
       }
+    },
+    {
+      "description": "House Withdrawn, Recommitted",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee",
+        "withdrawal"
+      ],
+      "related_entities": [
+        {
+          "name": "Insurance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:08:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:01Z"
+    "logs_latest_update": "2026-02-19T13:08:18Z"
   }
 }

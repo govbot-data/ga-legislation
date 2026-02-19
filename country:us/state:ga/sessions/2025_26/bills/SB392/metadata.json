@@ -45,6 +45,24 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:49:07Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:08:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -199,6 +217,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Mike Hodges\"}",
       "organization_id": null
+    },
+    {
+      "name": "Greg Dolezal",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greg Dolezal\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -245,6 +271,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:49:07Z"
+    "logs_latest_update": "2026-02-19T13:08:18Z"
   }
 }

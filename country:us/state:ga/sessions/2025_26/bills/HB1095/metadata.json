@@ -51,6 +51,24 @@
       "_processing": {
         "log_file_created": "2026-02-04T13:01:58Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Regulated Industries",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:08:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -89,6 +107,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 64 0069S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242950.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242950,
+        "_version_id": 4
+      }
+    },
     {
       "note": "LC 64 0036/a",
       "links": [
@@ -131,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T13:01:58Z"
+    "logs_latest_update": "2026-02-19T13:08:18Z"
   }
 }

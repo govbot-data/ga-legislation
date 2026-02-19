@@ -45,6 +45,24 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:01Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Retirement",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-19T13:08:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -167,11 +185,11 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 229969,
-        "_version_id": 3
+        "_version_id": 4
       }
     },
     {
-      "note": "LC 56 0215 Auditor's Certification",
+      "note": "Auditors Certification",
       "links": [
         {
           "url": "http://www.legis.ga.gov/Legislation/20252026/229976.pdf",
@@ -182,6 +200,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 229976,
+        "_version_id": 3
+      }
+    },
+    {
+      "note": "Actuarial Investigation",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242932.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242932,
         "_version_id": 2
       }
     }
@@ -212,6 +245,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:01Z"
+    "logs_latest_update": "2026-02-19T13:08:18Z"
   }
 }
