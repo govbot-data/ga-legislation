@@ -27,6 +27,24 @@
       "_processing": {
         "log_file_created": "2026-02-19T13:08:18Z"
       }
+    },
+    {
+      "description": "Senate Read and Referred",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-20T13:01:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -203,6 +221,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:08:18Z"
+    "logs_latest_update": "2026-02-20T13:01:19Z"
   }
 }

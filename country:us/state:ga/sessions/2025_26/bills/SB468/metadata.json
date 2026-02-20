@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025_26",
   "identifier": "SB 468",
-  "title": "Sexual Offender Risk Review Board;  reporting requirements of sexual offenders; increase",
+  "title": "Sexual Offender Risk Review Board; reporting requirements of sexual offenders; increase",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -44,6 +44,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-02-07T12:51:53Z"
+      }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-20T13:01:19Z"
       }
     }
   ],
@@ -148,6 +166,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Committee sub LC 63 0112S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243224.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 243224,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "As introduced LC 64 0039",
       "links": [
         {
@@ -189,6 +222,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:51:53Z"
+    "logs_latest_update": "2026-02-20T13:01:19Z"
   }
 }
