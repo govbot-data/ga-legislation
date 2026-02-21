@@ -69,6 +69,16 @@
       "_processing": {
         "log_file_created": "2026-02-12T13:10:46Z"
       }
+    },
+    {
+      "description": "House Postponed",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:50:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T13:10:46Z"
+    "logs_latest_update": "2026-02-21T12:50:49Z"
   }
 }

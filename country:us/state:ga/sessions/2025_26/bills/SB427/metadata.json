@@ -75,6 +75,30 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:51:53Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:50:49Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:50:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -194,6 +218,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243548.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 243548,
+        "_version_id": 7
+      }
+    },
+    {
       "note": "Committee Sub LC 52 1007S",
       "links": [
         {
@@ -205,6 +244,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 241593,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "Floor Amend 1 AM 49 0289",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243428.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 243428,
         "_version_id": 4
       }
     },
@@ -250,6 +304,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:51:53Z"
+    "logs_latest_update": "2026-02-21T12:50:49Z"
   }
 }

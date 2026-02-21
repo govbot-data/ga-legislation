@@ -141,6 +141,16 @@
       "_processing": {
         "log_file_created": "2026-02-18T13:07:07Z"
       }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:50:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -267,6 +277,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T13:07:07Z"
+    "logs_latest_update": "2026-02-21T12:50:49Z"
   }
 }

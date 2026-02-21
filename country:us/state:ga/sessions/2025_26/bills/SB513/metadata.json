@@ -45,6 +45,24 @@
       "_processing": {
         "log_file_created": "2026-02-19T13:08:18Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education and Youth",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:50:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -253,6 +271,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:08:18Z"
+    "logs_latest_update": "2026-02-21T12:50:49Z"
   }
 }

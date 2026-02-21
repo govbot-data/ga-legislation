@@ -45,6 +45,24 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:16:27Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources and the Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-21T12:50:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,6 +161,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Mike Hodges\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sheikh Rahman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sheikh Rahman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -189,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:16:27Z"
+    "logs_latest_update": "2026-02-21T12:50:49Z"
   }
 }
