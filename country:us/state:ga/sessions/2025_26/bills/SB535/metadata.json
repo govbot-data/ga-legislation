@@ -45,6 +45,24 @@
       "_processing": {
         "log_file_created": "2026-02-21T12:50:49Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health and Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-25T13:07:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +77,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Committee Sub LC 33 9879S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243600.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 243600,
+        "_version_id": 4
+      }
+    },
     {
       "note": "As introduced LC 33 9872",
       "links": [
@@ -101,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-21T12:50:49Z"
+    "logs_latest_update": "2026-02-25T13:07:19Z"
   }
 }

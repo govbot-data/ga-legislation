@@ -111,6 +111,30 @@
       "_processing": {
         "log_file_created": "2026-02-05T13:05:02Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T13:07:19Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T13:07:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -246,6 +270,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243744.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 243744,
+        "_version_id": 8
+      }
+    },
+    {
       "note": "Committee Sub LC 61 0374S",
       "links": [
         {
@@ -257,7 +296,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 241457,
-        "_version_id": 6
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "Floor Amend 1",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243696.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 243696,
+        "_version_id": 5
       }
     },
     {
@@ -317,6 +371,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-05T13:05:02Z"
+    "logs_latest_update": "2026-02-25T13:07:19Z"
   }
 }

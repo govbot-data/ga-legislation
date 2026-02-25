@@ -75,6 +75,18 @@
       "_processing": {
         "log_file_created": "2026-02-19T13:08:18Z"
       }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-25T13:07:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -418,6 +430,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Adopted Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243754.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 243754,
+        "_version_id": 6
+      }
+    },
+    {
       "note": "Committee Sub LC 44 3429S",
       "links": [
         {
@@ -429,7 +456,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 242685,
-        "_version_id": 4
+        "_version_id": 5
       }
     },
     {
@@ -444,7 +471,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 242124,
-        "_version_id": 2
+        "_version_id": 3
       }
     }
   ],
@@ -474,6 +501,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:08:18Z"
+    "logs_latest_update": "2026-02-25T13:07:19Z"
   }
 }
