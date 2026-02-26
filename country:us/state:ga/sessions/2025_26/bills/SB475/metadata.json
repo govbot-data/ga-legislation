@@ -45,6 +45,24 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:16:27Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education and Youth",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-26T13:08:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -124,6 +142,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Committee Sub LC 49 2735S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243942.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 243942,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "As Introduced LC 61 0346",
       "links": [
         {
@@ -165,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:16:27Z"
+    "logs_latest_update": "2026-02-26T13:08:49Z"
   }
 }

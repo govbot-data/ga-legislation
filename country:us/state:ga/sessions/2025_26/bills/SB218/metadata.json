@@ -184,6 +184,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T13:08:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -238,6 +248,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "SB 218/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/244090.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 244090,
+        "_version_id": 15
+      }
+    },
     {
       "note": "LC 49 2429S/hrcs",
       "links": [
@@ -355,6 +380,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-02-26T13:08:49Z"
   }
 }

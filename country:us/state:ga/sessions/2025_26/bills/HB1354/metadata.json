@@ -51,6 +51,24 @@
       "_processing": {
         "log_file_created": "2026-02-21T12:50:49Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Budget and Fiscal Affairs Oversight",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-26T13:08:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,6 +99,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 52 1060S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243966.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 243966,
+        "_version_id": 4
+      }
+    },
     {
       "note": "LC 52 1011/a",
       "links": [
@@ -123,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-21T12:50:49Z"
+    "logs_latest_update": "2026-02-26T13:08:49Z"
   }
 }

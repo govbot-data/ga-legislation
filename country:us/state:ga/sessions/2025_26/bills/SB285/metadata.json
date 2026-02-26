@@ -113,6 +113,24 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Retirement",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-26T13:08:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -128,32 +146,36 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Committee Sub LC 56 0343S",
+      "note": "Committee Sub LC 56 0625S",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/234747.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243951.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 234747,
-        "_version_id": 6
+        "_internal_document_id": 243951,
+        "_version_id": 9
       }
     },
     {
-      "note": "LC 56 0343S Auditors Certification",
+      "note": "Auditors Certification",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/234749.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/243949.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/234146.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 234749,
+        "_internal_document_id": 234146,
         "_version_id": 5
       }
     },
@@ -169,21 +191,36 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 234143,
-        "_version_id": 3
+        "_version_id": 6
       }
     },
     {
-      "note": "Auditors Certification",
+      "note": "Committee Sub LC 56 0343S",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/234146.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/234747.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 234146,
+        "_internal_document_id": 234747,
+        "_version_id": 3
+      }
+    },
+    {
+      "note": "LC 56 0343S Auditors Certification",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/234749.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 234749,
         "_version_id": 2
       }
     }
@@ -214,6 +251,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-02-26T13:08:50Z"
   }
 }

@@ -277,6 +277,16 @@
       "_processing": {
         "log_file_created": "2026-02-10T13:16:27Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-26T13:08:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -323,6 +333,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "SB 162 /AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/244088.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 244088,
+        "_version_id": 15
+      }
+    },
     {
       "note": "LC 60 0272S/hss",
       "links": [
@@ -440,6 +465,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-10T13:16:27Z"
+    "logs_latest_update": "2026-02-26T13:08:49Z"
   }
 }
