@@ -45,6 +45,24 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture and Consumer Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-27T13:01:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,6 +85,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Committee Sub LC 60 0326S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/244288.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 244288,
+        "_version_id": 4
+      }
+    },
     {
       "note": "As introduced LC 60 0085",
       "links": [
@@ -109,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-02-27T13:01:45Z"
   }
 }

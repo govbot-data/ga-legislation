@@ -69,6 +69,30 @@
       "_processing": {
         "log_file_created": "2026-02-20T13:01:19Z"
       }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T13:01:45Z"
+      }
+    },
+    {
+      "description": "House Passed/Adopted",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T13:01:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,6 +134,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Bruce Williamson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Fincher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bill Fincher\"}",
       "organization_id": null
     }
   ],
@@ -157,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T13:01:19Z"
+    "logs_latest_update": "2026-02-27T13:01:45Z"
   }
 }

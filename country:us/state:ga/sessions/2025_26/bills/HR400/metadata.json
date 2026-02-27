@@ -51,23 +51,41 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:03Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways & Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-02-27T13:01:45Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Lynn Heffner",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Lynn Heffner\"}",
-      "organization_id": null
-    },
     {
       "name": "Josh Bonner",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Josh Bonner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lynn Heffner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lynn Heffner\"}",
       "organization_id": null
     },
     {
@@ -147,6 +165,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:03Z"
+    "logs_latest_update": "2026-02-27T13:01:45Z"
   }
 }

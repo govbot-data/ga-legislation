@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025_26",
   "identifier": "SR 869",
-  "title": "Newton, Mayor Craig L. Newton; recognize",
+  "title": "Newton, Mayor Craig L. recognize",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -26,6 +26,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-26T13:08:49Z"
+      }
+    },
+    {
+      "description": "Senate Read and Adopted",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-27T13:01:45Z"
       }
     }
   ],
@@ -219,6 +231,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:08:49Z"
+    "logs_latest_update": "2026-02-27T13:01:45Z"
   }
 }
