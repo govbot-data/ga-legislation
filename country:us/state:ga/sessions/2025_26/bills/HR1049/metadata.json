@@ -6,7 +6,11 @@
   "classification": [
     "resolution"
   ],
-  "subject": [],
+  "subject": [
+    "GENERAL ASSEMBLY",
+    "GENERAL PROVISIONS, OCGA",
+    "HEALTH"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -109,6 +113,16 @@
       "_processing": {
         "log_file_created": "2026-02-27T13:01:45Z"
       }
+    },
+    {
+      "description": "House Postponed",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:59:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,6 +211,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T13:01:45Z"
+    "logs_latest_update": "2026-03-04T12:59:19Z"
   }
 }

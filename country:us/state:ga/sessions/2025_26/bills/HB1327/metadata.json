@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "EDUCATION",
+    "LAW ENFORCEMENT OFFICERS AND AGENCIES"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -50,6 +53,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-20T13:01:19Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-04T12:59:19Z"
       }
     }
   ],
@@ -98,6 +119,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 63 0125S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/244536.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 244536,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "LC 63 0104/a",
       "links": [
         {
@@ -139,6 +175,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-20T13:01:19Z"
+    "logs_latest_update": "2026-03-04T12:59:19Z"
   }
 }
