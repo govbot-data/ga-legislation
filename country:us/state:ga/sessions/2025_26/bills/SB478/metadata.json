@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "CONSERVATION AND NATURAL RESOURCES"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -74,6 +76,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-25T13:07:19Z"
+      }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T13:03:00Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T13:03:00Z"
       }
     }
   ],
@@ -186,6 +212,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/244988.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 244988,
+        "_version_id": 3
+      }
+    },
+    {
       "note": "As introduced LC 44 3403",
       "links": [
         {
@@ -227,6 +268,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T13:07:19Z"
+    "logs_latest_update": "2026-03-05T13:03:00Z"
   }
 }

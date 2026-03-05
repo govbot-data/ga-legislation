@@ -44,6 +44,36 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:59:19Z"
       }
+    },
+    {
+      "description": "House Second Readers",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T13:03:00Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-05T13:03:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,6 +121,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 49 2773S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/244972.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 244972,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "LC 49 2758/a",
       "links": [
         {
@@ -132,6 +177,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:59:19Z"
+    "logs_latest_update": "2026-03-05T13:03:00Z"
   }
 }

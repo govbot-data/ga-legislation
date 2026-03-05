@@ -6,7 +6,9 @@
   "classification": [
     "resolution"
   ],
-  "subject": [],
+  "subject": [
+    "HIGHWAYS, BRIDGES, AND FERRIES"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -75,6 +77,30 @@
       "_processing": {
         "log_file_created": "2026-02-27T13:01:45Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T13:03:00Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-05T13:03:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +148,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Adopted Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245035.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245035,
+        "_version_id": 7
+      }
+    },
+    {
       "note": "Committee Sub LC 39 4985",
       "links": [
         {
@@ -133,6 +174,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 243961,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "Floor Amend 1 AM 39 0506",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245025,
         "_version_id": 4
       }
     },
@@ -178,6 +234,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T13:01:45Z"
+    "logs_latest_update": "2026-03-05T13:03:00Z"
   }
 }
