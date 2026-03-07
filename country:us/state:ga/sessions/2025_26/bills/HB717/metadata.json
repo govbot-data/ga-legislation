@@ -172,6 +172,18 @@
       "_processing": {
         "log_file_created": "2026-03-05T13:03:00Z"
       }
+    },
+    {
+      "description": "House Passed/Adopted By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -218,6 +230,36 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 60 0332S/RCS",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245271.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245271,
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "LC 60 0332S/rcs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245166.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245166,
+        "_version_id": 6
+      }
+    },
     {
       "note": "LC 60 0271S/hs",
       "links": [
@@ -275,6 +317,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T13:03:00Z"
+    "logs_latest_update": "2026-03-07T12:50:24Z"
   }
 }

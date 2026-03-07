@@ -6,7 +6,9 @@
   "classification": [
     "resolution"
   ],
-  "subject": [],
+  "subject": [
+    "PROPERTY"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -50,6 +52,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-30T12:58:02Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:24Z"
       }
     }
   ],
@@ -115,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:58:02Z"
+    "logs_latest_update": "2026-03-07T12:50:24Z"
   }
 }

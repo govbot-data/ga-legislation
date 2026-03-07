@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "EDUCATION",
+    "FOOD, DRUGS, AND COSMETICS",
+    "LAW ENFORCEMENT OFFICERS AND AGENCIES"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -50,6 +54,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-03T13:03:18Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:24Z"
       }
     }
   ],
@@ -147,6 +169,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-03T13:03:18Z"
+    "logs_latest_update": "2026-03-07T12:50:24Z"
   }
 }

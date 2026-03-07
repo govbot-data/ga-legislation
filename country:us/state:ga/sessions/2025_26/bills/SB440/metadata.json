@@ -6,7 +6,13 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "CRIMES AND OFFENSES (CRIMINAL CODE)",
+    "DOMESTIC RELATIONS",
+    "HEALTH",
+    "REVENUE AND TAXATION",
+    "SOCIAL SERVICES"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -122,6 +128,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-26T13:08:49Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Public and Community Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
       }
     }
   ],
@@ -287,6 +311,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:08:49Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

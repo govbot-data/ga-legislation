@@ -165,6 +165,24 @@
       "_processing": {
         "log_file_created": "2026-03-05T13:03:00Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development & Tourism",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -219,6 +237,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 33 9887S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245176.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245176,
+        "_version_id": 10
+      }
+    },
     {
       "note": "LC 48 1787S/hs",
       "links": [
@@ -306,6 +339,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T13:03:00Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

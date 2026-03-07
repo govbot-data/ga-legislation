@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "COURTS",
+    "CRIMES AND OFFENSES (CRIMINAL CODE)",
+    "PROPERTY"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -51,6 +55,24 @@
       "_processing": {
         "log_file_created": "2026-01-30T12:58:03Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -73,6 +95,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 61 0434S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245196.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245196,
+        "_version_id": 4
+      }
+    },
     {
       "note": "LC 60 0218/a",
       "links": [
@@ -115,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-30T12:58:03Z"
+    "logs_latest_update": "2026-03-07T12:50:24Z"
   }
 }

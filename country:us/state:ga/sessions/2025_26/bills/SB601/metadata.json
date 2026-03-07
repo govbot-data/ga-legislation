@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "EDUCATION"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -44,6 +46,36 @@
       ],
       "_processing": {
         "log_file_created": "2026-02-27T13:01:45Z"
+      }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "State and Local Governmental Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
       }
     }
   ],
@@ -108,6 +140,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245228.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245228,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "As introduced LC 47 3943",
       "links": [
         {
@@ -164,6 +211,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T13:01:45Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

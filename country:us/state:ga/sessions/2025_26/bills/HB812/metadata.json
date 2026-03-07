@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "BUILDINGS AND HOUSING",
+    "CONSERVATION AND NATURAL RESOURCES",
+    "LOCAL GOVERNMENT"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -68,6 +72,25 @@
       ],
       "_processing": {
         "log_file_created": "2026-02-27T13:01:45Z"
+      }
+    },
+    {
+      "description": "House Withdrawn, Recommitted",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee",
+        "withdrawal"
+      ],
+      "related_entities": [
+        {
+          "name": "Governmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
       }
     }
   ],
@@ -180,6 +203,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T13:01:45Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

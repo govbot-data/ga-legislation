@@ -6,7 +6,9 @@
   "classification": [
     "resolution"
   ],
-  "subject": [],
+  "subject": [
+    "GENERAL ASSEMBLY"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -106,6 +108,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways & Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
       }
     }
   ],
@@ -210,6 +230,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

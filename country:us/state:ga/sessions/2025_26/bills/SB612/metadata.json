@@ -45,6 +45,36 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:59:19Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "State and Local Governmental Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +89,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245237.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245237,
+        "_version_id": 4
+      }
+    },
     {
       "note": "As introduced LC 62 0435",
       "links": [
@@ -116,6 +161,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:59:19Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

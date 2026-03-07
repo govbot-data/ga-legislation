@@ -170,6 +170,24 @@
       "_processing": {
         "log_file_created": "2026-03-05T13:03:00Z"
       }
+    },
+    {
+      "description": "Senate Read and Referred",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Tourism",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -326,6 +344,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T13:03:00Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

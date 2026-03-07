@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "LOCAL GOVERNMENT",
+    "PROPERTY"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -50,6 +53,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-27T13:01:45Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Governmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:24Z"
       }
     }
   ],
@@ -98,6 +119,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 47 4171S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245240.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245240,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "LC 47 4017/a",
       "links": [
         {
@@ -139,6 +175,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T13:01:45Z"
+    "logs_latest_update": "2026-03-07T12:50:24Z"
   }
 }

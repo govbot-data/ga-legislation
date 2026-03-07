@@ -77,6 +77,42 @@
       "_processing": {
         "log_file_created": "2026-03-05T13:03:00Z"
       }
+    },
+    {
+      "description": "Senate Engrossed",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:24Z"
+      }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:24Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -220,6 +256,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245256.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245256,
+        "_version_id": 10
+      }
+    },
+    {
       "note": "Committee Sub LC 59 0402S",
       "links": [
         {
@@ -231,7 +282,37 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 244558,
-        "_version_id": 4
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "Floor Amend 2 AM 56 0047",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245223.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245223,
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "Floor Amend 1 AM 56 0046",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245222.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245222,
+        "_version_id": 5
       }
     },
     {
@@ -246,7 +327,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 239999,
-        "_version_id": 2
+        "_version_id": 3
+      }
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245208.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245208,
+        "_version_id": 1
       }
     }
   ],
@@ -276,6 +372,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T13:03:00Z"
+    "logs_latest_update": "2026-03-07T12:50:24Z"
   }
 }

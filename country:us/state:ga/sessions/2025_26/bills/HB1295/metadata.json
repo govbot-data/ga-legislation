@@ -95,6 +95,24 @@
       "_processing": {
         "log_file_created": "2026-03-05T13:03:00Z"
       }
+    },
+    {
+      "description": "Senate Read and Referred",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Regulated Industries and Utilities",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,6 +167,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 46 1472S/hcs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245149.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245149,
+        "_version_id": 5
+      }
+    },
     {
       "note": "LC 46 1472S/hs",
       "links": [
@@ -206,6 +239,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T13:03:00Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

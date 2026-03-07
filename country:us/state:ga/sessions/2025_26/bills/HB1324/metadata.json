@@ -90,6 +90,31 @@
       "_processing": {
         "log_file_created": "2026-03-04T12:59:18Z"
       }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
+    },
+    {
+      "description": "House Third Reading Lost",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -137,6 +162,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 39 5038S/rcs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245170.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245170,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "LC 39 4953/a",
       "links": [
         {
@@ -178,6 +218,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-04T12:59:18Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "LAW ENFORCEMENT OFFICERS AND AGENCIES"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -75,6 +77,50 @@
       "_processing": {
         "log_file_created": "2026-02-21T12:50:49Z"
       }
+    },
+    {
+      "description": "Senate Tabled",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
+    },
+    {
+      "description": "Senate Taken from Table",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -130,6 +176,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245416.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245416,
+        "_version_id": 10
+      }
+    },
+    {
       "note": "Committee Sub LC 62 0415S",
       "links": [
         {
@@ -141,6 +202,36 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 243228,
+        "_version_id": 8
+      }
+    },
+    {
+      "note": "Floor Amend 2 AM 49 0302",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245343.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245343,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "Floor Amend 1 AM 62 0049",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245323.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245323,
         "_version_id": 4
       }
     },
@@ -186,6 +277,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-21T12:50:49Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "PUBLIC OFFICERS AND EMPLOYEES",
+    "RETIREMENT AND PENSIONS"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -88,6 +91,24 @@
       "_processing": {
         "log_file_created": "2026-02-19T13:08:18Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Retirement",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -142,6 +163,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 52 1025S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245255.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245255,
+        "_version_id": 6
+      }
+    },
     {
       "note": "LC 52 1017S/hs",
       "links": [
@@ -199,6 +235,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:08:18Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

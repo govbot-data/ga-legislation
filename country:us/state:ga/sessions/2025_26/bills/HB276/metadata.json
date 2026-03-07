@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "REVENUE AND TAXATION"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -51,9 +53,35 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways & Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "James Burchett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James Burchett\"}",
+      "organization_id": null
+    },
     {
       "name": "Bruce Williamson",
       "classification": "primary",
@@ -93,18 +121,25 @@
       "primary": true,
       "person_id": "~{\"name\": \"Clint Crowe\"}",
       "organization_id": null
-    },
-    {
-      "name": "Mark Newton",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mark Newton\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 44 3513S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245219.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245219,
+        "_version_id": 4
+      }
+    },
     {
       "note": "LC 50 1023/a",
       "links": [
@@ -147,6 +182,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }

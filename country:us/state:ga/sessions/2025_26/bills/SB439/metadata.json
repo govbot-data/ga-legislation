@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "COMMERCE AND TRADE",
+    "HEALTH"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -75,6 +78,30 @@
       "_processing": {
         "log_file_created": "2026-02-26T13:08:49Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-07T12:50:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,6 +141,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245286.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245286,
+        "_version_id": 7
+      }
+    },
+    {
       "note": "Committee Sub LC 44 3482S",
       "links": [
         {
@@ -125,6 +167,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 243599,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "Floor Amend 1 AM 44 0248",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245041.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245041,
         "_version_id": 4
       }
     },
@@ -170,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:08:49Z"
+    "logs_latest_update": "2026-03-07T12:50:25Z"
   }
 }
