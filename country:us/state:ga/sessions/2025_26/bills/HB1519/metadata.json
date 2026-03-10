@@ -27,6 +27,18 @@
       "_processing": {
         "log_file_created": "2026-03-07T12:50:24Z"
       }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T13:03:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -52,6 +64,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Debra Bazemore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derrick Jackson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Derrick Jackson\"}",
       "organization_id": null
     }
   ],
@@ -114,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:50:24Z"
+    "logs_latest_update": "2026-03-10T13:03:24Z"
   }
 }

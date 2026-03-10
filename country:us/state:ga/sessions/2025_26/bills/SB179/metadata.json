@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "EDUCATION",
+    "MINORS"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -165,6 +168,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:02Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub As Amended",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-10T13:03:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,6 +268,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 238672,
+        "_version_id": 12
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 62 0050",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245554.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245554,
         "_version_id": 10
       }
     },
@@ -345,6 +373,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:02Z"
+    "logs_latest_update": "2026-03-10T13:03:24Z"
   }
 }
