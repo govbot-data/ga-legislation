@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "MOTOR VEHICLES AND TRAFFIC",
+    "REVENUE AND TAXATION"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -191,6 +194,24 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-11T13:03:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -214,33 +235,18 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Sen Ctee sub LC 50 1265S",
+      "note": "Sen Ctee Sub LC 59 0416S",
       "links": [
         {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/237948.pdf",
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245610.pdf",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": "",
       "extras": {
-        "_internal_document_id": 237948,
-        "_version_id": 8
-      }
-    },
-    {
-      "note": "LC 50 1265S Fiscal Note",
-      "links": [
-        {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/238779.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "",
-      "extras": {
-        "_internal_document_id": 238779,
-        "_version_id": 7
+        "_internal_document_id": 245610,
+        "_version_id": 10
       }
     },
     {
@@ -255,7 +261,37 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 234590,
-        "_version_id": 5
+        "_version_id": 8
+      }
+    },
+    {
+      "note": "Sen Ctee sub LC 50 1265S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/237948.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 237948,
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "LC 50 1265S Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/238779.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 238779,
+        "_version_id": 6
       }
     },
     {
@@ -315,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-03-11T13:03:10Z"
   }
 }

@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "BANKING AND FINANCE"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -141,6 +143,30 @@
       "_processing": {
         "log_file_created": "2026-02-25T13:07:19Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T13:03:10Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-11T13:03:10Z"
+      }
     }
   ],
   "sponsorships": [
@@ -183,7 +209,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 241822,
-        "_version_id": 5
+        "_version_id": 10
       }
     },
     {
@@ -198,6 +224,66 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 241018,
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245666.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245666,
+        "_version_id": 8
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1C",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245675.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245675,
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1B",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245676.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245676,
+        "_version_id": 5
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1A",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245674.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245674,
         "_version_id": 4
       }
     },
@@ -243,6 +329,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-25T13:07:19Z"
+    "logs_latest_update": "2026-03-11T13:03:10Z"
   }
 }
