@@ -188,6 +188,24 @@
       "_processing": {
         "log_file_created": "2026-03-07T12:50:25Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Tourism",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-13T13:01:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -242,6 +260,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Sen Ctee Sub LC 59 0419S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245639.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245639,
+        "_version_id": 11
+      }
+    },
     {
       "note": "LC 56 0607S/hcs",
       "links": [
@@ -344,6 +377,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:50:25Z"
+    "logs_latest_update": "2026-03-13T13:01:20Z"
   }
 }

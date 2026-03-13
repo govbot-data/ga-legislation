@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "PUBLIC UTILITIES AND TRANSPORTATION"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -110,6 +112,24 @@
       ],
       "_processing": {
         "log_file_created": "2026-02-18T13:07:07Z"
+      }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Tourism",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-13T13:01:20Z"
       }
     }
   ],
@@ -237,6 +257,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-18T13:07:07Z"
+    "logs_latest_update": "2026-03-13T13:01:20Z"
   }
 }

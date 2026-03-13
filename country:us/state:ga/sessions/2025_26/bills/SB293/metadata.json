@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "MOTOR VEHICLES AND TRAFFIC"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -178,6 +180,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T10:18:01Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Motor Vehicles",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-13T13:01:20Z"
       }
     }
   ],
@@ -474,6 +494,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 39 5060S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245696.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245696,
+        "_version_id": 7
+      }
+    },
+    {
       "note": "LC 39 4761S/hss",
       "links": [
         {
@@ -545,6 +580,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:01Z"
+    "logs_latest_update": "2026-03-13T13:01:20Z"
   }
 }

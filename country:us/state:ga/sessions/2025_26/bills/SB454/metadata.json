@@ -145,6 +145,24 @@
       "_processing": {
         "log_file_created": "2026-03-11T13:03:10Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety and Homeland Security",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-13T13:01:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -256,6 +274,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 63 0148S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245717.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245717,
+        "_version_id": 5
+      }
+    },
+    {
       "note": "As Passed Senate",
       "links": [
         {
@@ -312,6 +345,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T13:03:10Z"
+    "logs_latest_update": "2026-03-13T13:01:20Z"
   }
 }

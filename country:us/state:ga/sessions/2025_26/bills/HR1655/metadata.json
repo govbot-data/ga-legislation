@@ -30,6 +30,18 @@
       "_processing": {
         "log_file_created": "2026-03-11T13:03:10Z"
       }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-13T13:01:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +83,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Michelle Au\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karlton Howard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Karlton Howard\"}",
       "organization_id": null
     }
   ],
@@ -118,6 +138,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T13:03:10Z"
+    "logs_latest_update": "2026-03-13T13:01:20Z"
   }
 }
