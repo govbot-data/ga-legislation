@@ -143,6 +143,42 @@
       "_processing": {
         "log_file_created": "2026-03-13T13:01:20Z"
       }
+    },
+    {
+      "description": "Senate Engrossed",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-17T13:14:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-17T13:14:58Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-17T13:14:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -254,6 +290,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T13:01:20Z"
+    "logs_latest_update": "2026-03-17T13:14:58Z"
   }
 }

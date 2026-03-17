@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "MOTOR VEHICLES AND TRAFFIC",
+    "REVENUE AND TAXATION"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -159,6 +162,25 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "Senate Withdrawn & Recommitted",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee",
+        "withdrawal"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-17T13:14:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,6 +277,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-03-17T13:14:58Z"
   }
 }

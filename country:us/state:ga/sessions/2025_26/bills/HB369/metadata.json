@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "FOOD, DRUGS, AND COSMETICS",
+    "MOTOR VEHICLES AND TRAFFIC"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -110,6 +113,25 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T10:18:01Z"
+      }
+    },
+    {
+      "description": "Senate Withdrawn & Recommitted",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee",
+        "withdrawal"
+      ],
+      "related_entities": [
+        {
+          "name": "Ethics",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-17T13:14:58Z"
       }
     }
   ],
@@ -237,6 +259,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:01Z"
+    "logs_latest_update": "2026-03-17T13:14:58Z"
   }
 }

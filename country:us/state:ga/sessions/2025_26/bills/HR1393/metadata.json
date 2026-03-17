@@ -6,7 +6,10 @@
   "classification": [
     "resolution"
   ],
-  "subject": [],
+  "subject": [
+    "GENERAL ASSEMBLY",
+    "HEALTH"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -50,6 +53,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-21T12:50:49Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Special Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-17T13:14:58Z"
       }
     }
   ],
@@ -147,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-21T12:50:49Z"
+    "logs_latest_update": "2026-03-17T13:14:58Z"
   }
 }
