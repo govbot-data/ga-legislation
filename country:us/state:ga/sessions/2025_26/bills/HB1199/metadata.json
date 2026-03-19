@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb1199"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -215,6 +219,26 @@
       "_processing": {
         "log_file_created": "2026-03-13T13:01:20Z"
       }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub As Amended",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
+    },
+    {
+      "description": "House Immediately Transmitted to Senate",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -265,7 +289,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 245605,
-        "_version_id": 9
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Floor Amendment AM 44 0260",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246377.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246377,
+        "_version_id": 10
       }
     },
     {
@@ -355,6 +394,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T13:01:20Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }

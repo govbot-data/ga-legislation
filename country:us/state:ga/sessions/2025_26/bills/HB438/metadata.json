@@ -17,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb438"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -114,6 +118,24 @@
       "_processing": {
         "log_file_created": "2026-03-07T12:50:25Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Retirement",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,7 +202,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 232318,
-        "_version_id": 3
+        "_version_id": 4
       }
     },
     {
@@ -195,6 +217,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 232334,
+        "_version_id": 3
+      }
+    },
+    {
+      "note": "Actuarial Investigation",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246213.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246213,
         "_version_id": 2
       }
     }
@@ -225,6 +262,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:50:25Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }

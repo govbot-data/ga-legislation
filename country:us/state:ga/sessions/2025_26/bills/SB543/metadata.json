@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb543"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -98,6 +102,43 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-07T12:50:24Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Intragovernmental Coordination",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
+    },
+    {
+      "description": "House Withdrawn, Recommitted",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee",
+        "withdrawal"
+      ],
+      "related_entities": [
+        {
+          "name": "Intragovernmental Coordination",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
       }
     }
   ],
@@ -201,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:50:24Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }

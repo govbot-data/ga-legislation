@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb1538"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -50,6 +54,48 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-17T13:14:58Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Intragovernmental Coordination",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
+    },
+    {
+      "description": "House Passed/Adopted",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
       }
     }
   ],
@@ -154,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:14:58Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }

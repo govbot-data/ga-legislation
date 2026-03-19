@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "REVENUE AND TAXATION"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb439"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -111,6 +117,42 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:03Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
+    },
+    {
+      "description": "Senate Recommitted",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -165,6 +207,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Sen Ctee Sub LC 59 0438S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246221.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246221,
+        "_version_id": 7
+      }
+    },
     {
       "note": "LC 44 3130S/hcs",
       "links": [
@@ -237,6 +294,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:03Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }

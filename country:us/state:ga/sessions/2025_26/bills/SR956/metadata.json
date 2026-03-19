@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sr956"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -26,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-17T13:14:58Z"
+      }
+    },
+    {
+      "description": "Senate Read and Adopted",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
       }
     }
   ],
@@ -107,6 +123,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:14:58Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }

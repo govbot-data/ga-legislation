@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "HEALTH"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb395"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -159,6 +165,24 @@
       "_processing": {
         "log_file_created": "2026-02-27T13:01:45Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Public and Community Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -238,6 +262,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 52 1083S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246271.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246271,
+        "_version_id": 10
+      }
+    },
+    {
       "note": "As Passed Senate",
       "links": [
         {
@@ -268,21 +307,6 @@
       }
     },
     {
-      "note": "Committee Sub LC 52 0985S",
-      "links": [
-        {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/240804.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "",
-      "extras": {
-        "_internal_document_id": 240804,
-        "_version_id": 4
-      }
-    },
-    {
       "note": "As introduced LC 52 0941",
       "links": [
         {
@@ -294,6 +318,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 239778,
+        "_version_id": 4
+      }
+    },
+    {
+      "note": "Committee Sub LC 52 0985S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/240804.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 240804,
         "_version_id": 2
       }
     }
@@ -324,6 +363,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T13:01:45Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }

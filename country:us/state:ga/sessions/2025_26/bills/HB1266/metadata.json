@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb1266"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -150,6 +154,24 @@
       "_processing": {
         "log_file_created": "2026-03-07T12:50:25Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources and the Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -252,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:50:25Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }

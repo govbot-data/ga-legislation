@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb220"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -202,6 +206,16 @@
       "_processing": {
         "log_file_created": "2026-03-13T13:01:20Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub As Amended",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -372,6 +386,81 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 242131,
+        "_version_id": 22
+      }
+    },
+    {
+      "note": "SFA to SB 220",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246528.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246528,
+        "_version_id": 20
+      }
+    },
+    {
+      "note": "Sen Floor Amend 2 AM 33 2118",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246294.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246294,
+        "_version_id": 19
+      }
+    },
+    {
+      "note": "Sen Floor Amend 2A",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246301.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246301,
+        "_version_id": 17
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 33 2116",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246289.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246289,
+        "_version_id": 16
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1A AM 33 2117",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246288.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246288,
         "_version_id": 14
       }
     },
@@ -507,6 +596,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T13:01:20Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }

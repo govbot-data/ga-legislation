@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb1504"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -88,6 +92,48 @@
       "_processing": {
         "log_file_created": "2026-03-11T13:03:10Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Intragovernmental Coordination",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
+    },
+    {
+      "description": "House Passed/Adopted By Substitute",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-19T13:07:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -142,6 +188,36 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 47 4201S/hcs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246198.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246198,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "LC 47 4201S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246197.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246197,
+        "_version_id": 5
+      }
+    },
     {
       "note": "LC 47 4094/a",
       "links": [
@@ -199,6 +275,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T13:03:10Z"
+    "logs_latest_update": "2026-03-19T13:07:31Z"
   }
 }
