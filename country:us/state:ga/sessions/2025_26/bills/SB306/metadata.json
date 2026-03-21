@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb306"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -137,6 +141,24 @@
       "_processing": {
         "log_file_created": "2026-03-10T13:03:24Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways & Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -151,6 +173,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 59 0452S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246802.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246802,
+        "_version_id": 7
+      }
+    },
     {
       "note": "As Passed Senate",
       "links": [
@@ -223,6 +260,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-10T13:03:24Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }

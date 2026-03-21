@@ -147,6 +147,30 @@
       "_processing": {
         "log_file_created": "2026-03-19T13:07:31Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -193,6 +217,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "HB 1293/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246709.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246709,
+        "_version_id": 6
+      }
+    },
     {
       "note": "LC 61 0425S/hcs",
       "links": [
@@ -265,6 +304,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T13:07:31Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb621"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -44,6 +48,48 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-17T13:14:58Z"
+      }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "State and Local Governmental Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
       }
     }
   ],
@@ -75,6 +121,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246621.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246621,
+        "_version_id": 4
+      }
+    },
     {
       "note": "As introduced LC 62 0317",
       "links": [
@@ -132,6 +193,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:14:58Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }

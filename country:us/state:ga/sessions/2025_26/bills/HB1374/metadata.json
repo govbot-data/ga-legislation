@@ -136,6 +136,42 @@
       "_processing": {
         "log_file_created": "2026-03-19T13:07:31Z"
       }
+    },
+    {
+      "description": "Senate Read Second Time",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -194,7 +230,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 246177,
-        "_version_id": 4
+        "_version_id": 5
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246927.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246927,
+        "_version_id": 3
       }
     },
     {
@@ -239,6 +290,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T13:07:31Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }

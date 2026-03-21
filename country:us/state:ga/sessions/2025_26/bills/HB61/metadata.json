@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "HEALTH",
+    "MOTOR VEHICLES AND TRAFFIC"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb61"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -177,6 +184,30 @@
       "_processing": {
         "log_file_created": "2026-02-04T13:01:58Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -224,6 +255,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SCSFA to HB 61",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246890.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246890,
+        "_version_id": 12
+      }
+    },
+    {
       "note": "Sen Ctee Sub LC 63 0073S",
       "links": [
         {
@@ -235,7 +281,52 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 241287,
-        "_version_id": 6
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Sen Floor Amend 2 AM 63 0023",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246855.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246855,
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 39 0515",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246839.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246839,
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1A",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246879.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246879,
+        "_version_id": 5
       }
     },
     {
@@ -295,6 +386,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T13:01:58Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }

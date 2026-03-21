@@ -170,6 +170,24 @@
       "_processing": {
         "log_file_created": "2026-03-19T13:07:31Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Public and Community Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -232,6 +250,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 60 0354S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246856.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246856,
+        "_version_id": 10
+      }
+    },
     {
       "note": "As Passed Senate",
       "links": [
@@ -334,6 +367,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T13:07:31Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }

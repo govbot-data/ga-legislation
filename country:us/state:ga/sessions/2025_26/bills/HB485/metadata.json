@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "COMMERCE AND TRADE",
+    "MOTOR VEHICLES AND TRAFFIC",
+    "REVENUE AND TAXATION"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +18,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb485"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -177,6 +185,24 @@
       "_processing": {
         "log_file_created": "2026-02-13T13:02:38Z"
       }
+    },
+    {
+      "description": "Senate Recommitted",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -224,21 +250,6 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Sen Ctee Sub LC 39 4922S",
-      "links": [
-        {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/242465.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "",
-      "extras": {
-        "_internal_document_id": 242465,
-        "_version_id": 9
-      }
-    },
-    {
       "note": "LC 39 4672S/hcs",
       "links": [
         {
@@ -250,7 +261,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 235414,
-        "_version_id": 7
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "Sen Ctee Sub LC 39 4922S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242465.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242465,
+        "_version_id": 8
       }
     },
     {
@@ -325,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T13:02:38Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }

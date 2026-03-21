@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL to be entitled an Act to provide a homestead exemption from City of Statham ad valorem taxes for municipal purposes in the amount of $20,000.00 of the assessed value of the homestead for residents of that city who are 62 years of age or older; to provide an additional homestead exemption from City of Statham ad valorem taxes for municipal purposes in the amount of $10,000.00  of the assessed value of the homestead for residents of that city who are 67 years of age or older; to provide for related matters; to repeal conflicting laws; and for other purposes."
+      "abstract": "A BILL to be entitled an Act to provide a homestead exemption from City of Statham ad valorem taxes for municipal purposes in the amount of $20,000.00 of the assessed value of the homestead for residents of that city who are 62 years of age or older; to provide an additional homestead exemption from City of Statham ad valorem taxes for municipal purposes in the amount of $10,000.00 of the assessed value of the homestead for residents of that city who are 67 years of age or older; to provide for related matters; to repeal conflicting laws; and for other purposes."
     }
   ],
   "other_titles": [],
@@ -30,6 +30,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-19T13:07:31Z"
+      }
+    },
+    {
+      "description": "House First Readers",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "House Second Readers",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
       }
     }
   ],
@@ -110,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T13:07:31Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }

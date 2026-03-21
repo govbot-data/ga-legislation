@@ -239,6 +239,62 @@
       "_processing": {
         "log_file_created": "2026-03-19T13:07:31Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "Senate Transmitted House",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "House Sent to Governor",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "House Date Signed by Governor",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "Act 375",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -277,6 +333,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "HB 1199/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246598.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246598,
+        "_version_id": 12
+      }
+    },
     {
       "note": "Sen Ctee Sub LC 59 0418S",
       "links": [
@@ -369,7 +440,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Acts of Georgia, 2026",
+      "citation": "Act 375",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
@@ -394,6 +474,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T13:07:31Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }

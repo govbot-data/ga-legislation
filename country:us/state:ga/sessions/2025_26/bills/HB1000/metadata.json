@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb1000"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -179,6 +183,42 @@
       "_processing": {
         "log_file_created": "2026-03-17T13:14:58Z"
       }
+    },
+    {
+      "description": "House Sent to Governor",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "House Date Signed by Governor",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
+    },
+    {
+      "description": "Act 374",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-21T12:52:21Z"
+      }
     }
   ],
   "sponsorships": [
@@ -234,6 +274,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "HB 1000/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246128.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246128,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "LC 59 0225-EC/a",
       "links": [
         {
@@ -265,7 +320,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Acts of Georgia, 2026",
+      "citation": "Act 374",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
@@ -290,6 +354,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:14:58Z"
+    "logs_latest_update": "2026-03-21T12:52:21Z"
   }
 }
