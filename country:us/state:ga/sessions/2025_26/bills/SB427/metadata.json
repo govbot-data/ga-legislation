@@ -172,6 +172,16 @@
       "_processing": {
         "log_file_created": "2026-03-19T13:07:31Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:14:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -291,6 +301,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SB 427/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247108.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247108,
+        "_version_id": 11
+      }
+    },
+    {
       "note": "LC 46 1510S/hss",
       "links": [
         {
@@ -392,6 +417,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T13:07:31Z"
+    "logs_latest_update": "2026-03-24T13:14:39Z"
   }
 }

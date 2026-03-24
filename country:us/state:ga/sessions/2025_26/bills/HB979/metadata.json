@@ -147,6 +147,30 @@
       "_processing": {
         "log_file_created": "2026-03-21T12:52:21Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:14:39Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:14:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -194,6 +218,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SCSFA to HB 979",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247098.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247098,
+        "_version_id": 8
+      }
+    },
+    {
       "note": "Sen Ctee Sub LC 46 1531S",
       "links": [
         {
@@ -205,6 +244,36 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 246212,
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "Sen Floor Amend 2",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247084.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247084,
+        "_version_id": 5
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 39 0520",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247074.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247074,
         "_version_id": 4
       }
     },
@@ -250,6 +319,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-21T12:52:21Z"
+    "logs_latest_update": "2026-03-24T13:14:39Z"
   }
 }

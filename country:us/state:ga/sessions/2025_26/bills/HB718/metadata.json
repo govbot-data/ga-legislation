@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "GENERAL PROVISIONS, OCGA"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb718"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -179,6 +185,24 @@
       "_processing": {
         "log_file_created": "2026-01-13T12:50:37Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Tourism",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:14:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -193,6 +217,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Sen Ctee Sub LC 56 0665S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246980.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246980,
+        "_version_id": 4
+      }
+    },
     {
       "note": "LC 59 0125/a",
       "links": [
@@ -235,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T12:50:37Z"
+    "logs_latest_update": "2026-03-24T13:14:39Z"
   }
 }

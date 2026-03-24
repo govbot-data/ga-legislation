@@ -195,6 +195,40 @@
       "_processing": {
         "log_file_created": "2026-03-19T13:07:31Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:14:39Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:14:39Z"
+      }
+    },
+    {
+      "description": "Senate Notice to Reconsider",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-24T13:14:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -250,6 +284,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SCSFA to HB 1020",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247085.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247085,
+        "_version_id": 14
+      }
+    },
+    {
       "note": "Sen Ctee Sub LC 56 0664S",
       "links": [
         {
@@ -261,7 +310,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 246097,
-        "_version_id": 10
+        "_version_id": 13
       }
     },
     {
@@ -276,6 +325,36 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 246098,
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 56 0058",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246999.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246999,
+        "_version_id": 10
+      }
+    },
+    {
+      "note": "AM 56 0058 Auditor's Certification",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246997.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246997,
         "_version_id": 8
       }
     },
@@ -381,6 +460,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T13:07:31Z"
+    "logs_latest_update": "2026-03-24T13:14:39Z"
   }
 }
