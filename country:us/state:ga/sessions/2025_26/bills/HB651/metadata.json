@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "EDUCATION",
+    "MOTOR VEHICLES AND TRAFFIC"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb651"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -214,6 +221,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:03Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub As Amended",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:18:49Z"
+      }
+    },
+    {
+      "description": "Senate Transmitted House",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:18:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -280,7 +307,37 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 239254,
+        "_version_id": 14
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247478.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247478,
         "_version_id": 12
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1A",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247596.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247596,
+        "_version_id": 11
       }
     },
     {
@@ -400,6 +457,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:03Z"
+    "logs_latest_update": "2026-03-26T13:18:49Z"
   }
 }

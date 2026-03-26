@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "FOOD, DRUGS, AND COSMETICS"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb195"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -202,6 +208,16 @@
       "_processing": {
         "log_file_created": "2026-02-13T13:02:38Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:18:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -335,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-13T13:02:38Z"
+    "logs_latest_update": "2026-03-26T13:18:49Z"
   }
 }

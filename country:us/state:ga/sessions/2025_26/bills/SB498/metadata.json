@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb498"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -157,6 +161,24 @@
       "_processing": {
         "log_file_created": "2026-03-11T13:03:10Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:18:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -203,6 +225,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 49 2821S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247224.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247224,
+        "_version_id": 8
+      }
+    },
     {
       "note": "As Passed Senate",
       "links": [
@@ -290,6 +327,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-11T13:03:10Z"
+    "logs_latest_update": "2026-03-26T13:18:49Z"
   }
 }

@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "EDUCATION",
+    "RETIREMENT AND PENSIONS"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb372"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -111,6 +118,36 @@
       "_processing": {
         "log_file_created": "2026-02-26T13:08:49Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Retirement",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:18:49Z"
+      }
+    },
+    {
+      "description": "Senate Read Second Time",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:18:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -177,7 +214,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 243749,
-        "_version_id": 7
+        "_version_id": 8
       }
     },
     {
@@ -192,7 +229,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 242541,
-        "_version_id": 6
+        "_version_id": 7
       }
     },
     {
@@ -207,6 +244,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 242567,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "Actuarial Investigation",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247340.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247340,
         "_version_id": 5
       }
     },
@@ -267,6 +319,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:08:49Z"
+    "logs_latest_update": "2026-03-26T13:18:49Z"
   }
 }

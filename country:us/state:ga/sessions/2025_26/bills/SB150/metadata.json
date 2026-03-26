@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "RETIREMENT AND PENSIONS"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb150"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -123,6 +129,24 @@
       "_processing": {
         "log_file_created": "2026-02-12T13:10:46Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Retirement",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:18:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -185,6 +209,36 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 56 0700S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247427.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247427,
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Auditor's Certification LC 56 0700S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247428.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247428,
+        "_version_id": 10
+      }
+    },
     {
       "note": "As Passed Senate",
       "links": [
@@ -302,6 +356,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-12T13:10:46Z"
+    "logs_latest_update": "2026-03-26T13:18:49Z"
   }
 }

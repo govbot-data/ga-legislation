@@ -18,7 +18,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb513"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -126,6 +130,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-05T13:03:00Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-26T13:18:49Z"
       }
     }
   ],
@@ -294,6 +316,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 49 2857S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247287.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247287,
+        "_version_id": 5
+      }
+    },
+    {
       "note": "As Passed Senate",
       "links": [
         {
@@ -350,6 +387,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T13:03:00Z"
+    "logs_latest_update": "2026-03-26T13:18:49Z"
   }
 }
