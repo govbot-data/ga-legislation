@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb750"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -150,6 +154,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T10:18:01Z"
+      }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
       }
     }
   ],
@@ -292,6 +306,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:01Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

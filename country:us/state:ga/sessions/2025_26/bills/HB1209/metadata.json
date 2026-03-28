@@ -17,7 +17,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb1209"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -113,6 +117,36 @@
       ],
       "_processing": {
         "log_file_created": "2026-03-05T13:03:00Z"
+      }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
+    },
+    {
+      "description": "Senate Read Second Time",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
       }
     }
   ],
@@ -232,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-05T13:03:00Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

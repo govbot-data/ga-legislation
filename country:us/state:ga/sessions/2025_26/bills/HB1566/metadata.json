@@ -55,6 +55,66 @@
       "_processing": {
         "log_file_created": "2026-03-21T12:52:21Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Intragovernmental Coordination",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
+    },
+    {
+      "description": "House Passed/Adopted",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
+    },
+    {
+      "description": "Senate Read and Referred",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "State and Local Governmental Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,6 +124,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"James Burchett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Corbett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John Corbett\"}",
       "organization_id": null
     }
   ],
@@ -126,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-21T12:52:21Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

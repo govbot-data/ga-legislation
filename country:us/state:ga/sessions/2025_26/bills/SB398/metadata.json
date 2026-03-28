@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "CRIMES AND OFFENSES (CRIMINAL CODE)"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb398"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -142,6 +148,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-26T13:08:49Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary Non-Civil",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
       }
     }
   ],
@@ -334,6 +358,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 48 1846S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247813.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247813,
+        "_version_id": 7
+      }
+    },
+    {
       "note": "As Passed Senate",
       "links": [
         {
@@ -405,6 +444,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-26T13:08:49Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

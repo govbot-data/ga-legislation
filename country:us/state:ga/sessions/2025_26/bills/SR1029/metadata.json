@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025_26",
   "identifier": "SR 1029",
-  "title": "Roadless Area Conservation Rule and United States Forest Service; recognize and commend",
+  "title": "Roadless Area Conservation Rule; recognize; United States Forest Service; commend",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -30,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
+      }
+    },
+    {
+      "description": "Senate Read and Adopted",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
       }
     }
   ],
@@ -135,6 +147,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

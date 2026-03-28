@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "ELECTIONS"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb175"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -172,6 +178,24 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:01Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Governmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -267,6 +291,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 48 1838S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247817.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247817,
+        "_version_id": 7
+      }
+    },
+    {
       "note": "LC 47 3697S/hss",
       "links": [
         {
@@ -338,6 +377,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:01Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

@@ -170,6 +170,28 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
       }
+    },
+    {
+      "description": "Senate Taken from Table",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted As Amended",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -236,7 +258,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 241479,
-        "_version_id": 9
+        "_version_id": 10
+      }
+    },
+    {
+      "note": "Sen Floor Amend 4",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248109.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248109,
+        "_version_id": 8
       }
     },
     {
@@ -356,6 +393,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

@@ -16,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb437"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -161,6 +165,24 @@
       "_processing": {
         "log_file_created": "2026-03-07T12:50:24Z"
       }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Governmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -208,6 +230,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 47 4315S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247816.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247816,
+        "_version_id": 9
+      }
+    },
+    {
       "note": "As Passed Senate",
       "links": [
         {
@@ -238,21 +275,6 @@
       }
     },
     {
-      "note": "Committee Sub LC 62 0371S",
-      "links": [
-        {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/242111.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "",
-      "extras": {
-        "_internal_document_id": 242111,
-        "_version_id": 4
-      }
-    },
-    {
       "note": "As introduced LC 62 0293",
       "links": [
         {
@@ -264,6 +286,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 240791,
+        "_version_id": 4
+      }
+    },
+    {
+      "note": "Committee Sub LC 62 0371S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/242111.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 242111,
         "_version_id": 2
       }
     }
@@ -294,6 +331,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-07T12:50:24Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

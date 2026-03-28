@@ -147,6 +147,50 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
       }
+    },
+    {
+      "description": "Senate Tabled",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
+    },
+    {
+      "description": "Senate Taken from Table",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +222,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SCSFA HB 1121",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248076.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248076,
+        "_version_id": 7
+      }
+    },
+    {
       "note": "Sen Ctee Sub LC 49 2855S",
       "links": [
         {
@@ -189,6 +248,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 247246,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 49 0324",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247831.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247831,
         "_version_id": 4
       }
     },
@@ -234,6 +308,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

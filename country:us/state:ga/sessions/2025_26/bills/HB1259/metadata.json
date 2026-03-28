@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "EDUCATION"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb1259"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -111,6 +117,36 @@
       "_processing": {
         "log_file_created": "2026-02-27T13:01:45Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education and Youth",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
+    },
+    {
+      "description": "Senate Read Second Time",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,6 +185,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Sen Ctee Sub LC 61 0514S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247779.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247779,
+        "_version_id": 7
+      }
+    },
     {
       "note": "LC 64 0067S/hcs",
       "links": [
@@ -221,6 +272,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-27T13:01:45Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }

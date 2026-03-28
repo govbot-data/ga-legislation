@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "COURTS"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb10"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -201,6 +207,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub As Amended",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-03-28T12:57:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -259,6 +275,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 239164,
+        "_version_id": 13
+      }
+    },
+    {
+      "note": "Floor Amend 1 AM 61 0040",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248101.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248101,
         "_version_id": 11
       }
     },
@@ -364,6 +395,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-03-28T12:57:40Z"
   }
 }
