@@ -171,6 +171,16 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub As Amended",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -253,6 +263,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 246892,
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "Floor Amend 1 AM 49 0330",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248615.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248615,
         "_version_id": 7
       }
     },
@@ -328,6 +353,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

@@ -184,6 +184,59 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
       }
+    },
+    {
+      "description": "House Withdrawn, Recommitted",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee",
+        "withdrawal"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
+    },
+    {
+      "description": "House Passed/Adopted By Substitute",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -439,6 +492,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 49 2882S/hrcs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248269.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248269,
+        "_version_id": 11
+      }
+    },
+    {
       "note": "LC 49 2838S/hss",
       "links": [
         {
@@ -525,6 +593,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

@@ -148,6 +148,16 @@
       "_processing": {
         "log_file_created": "2026-03-28T12:57:40Z"
       }
+    },
+    {
+      "description": "Senate Tabled",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -214,6 +224,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 247822,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 56 0080",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248465.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248465,
         "_version_id": 4
       }
     },
@@ -259,6 +284,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T12:57:40Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

@@ -115,6 +115,36 @@
       "_processing": {
         "log_file_created": "2026-03-21T12:52:21Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "State and Local Governmental Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -169,6 +199,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Sen Ctee Sub LC 62 0509S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247194.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247194,
+        "_version_id": 5
+      }
+    },
     {
       "note": "LC 47 4144/a",
       "links": [
@@ -226,6 +271,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-21T12:52:21Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

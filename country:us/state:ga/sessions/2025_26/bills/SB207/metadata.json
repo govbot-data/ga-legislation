@@ -6,7 +6,13 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "EDUCATION",
+    "FOOD, DRUGS, AND COSMETICS",
+    "HEALTH",
+    "INSURANCE",
+    "PROFESSIONS AND BUSINESSES"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +20,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb207"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -175,6 +185,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
       }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub As Amended",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -294,6 +314,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Floor Amendment AM 64 0009",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248495.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248495,
+        "_version_id": 9
+      }
+    },
+    {
       "note": "LC 59 0181S/hrcs",
       "links": [
         {
@@ -380,6 +415,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

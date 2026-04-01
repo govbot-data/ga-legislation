@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House Tabled",
+    "date": "2026-03-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 423"
+}

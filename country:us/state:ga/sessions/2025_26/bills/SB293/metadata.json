@@ -237,6 +237,16 @@
       "_processing": {
         "log_file_created": "2026-03-28T12:57:40Z"
       }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -532,21 +542,6 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "SFA to SB 293",
-      "links": [
-        {
-          "url": "http://www.legis.ga.gov/Legislation/20252026/248102.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": "",
-      "extras": {
-        "_internal_document_id": 248102,
-        "_version_id": 12
-      }
-    },
-    {
       "note": "LC 39 5060S/hss",
       "links": [
         {
@@ -558,7 +553,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 245696,
-        "_version_id": 11
+        "_version_id": 12
+      }
+    },
+    {
+      "note": "SFA to SB 293",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248102.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248102,
+        "_version_id": 10
       }
     },
     {
@@ -663,6 +673,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T12:57:40Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

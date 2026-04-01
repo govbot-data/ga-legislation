@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "MOTOR VEHICLES AND TRAFFIC"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb77"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -197,6 +203,16 @@
       "_processing": {
         "log_file_created": "2026-02-04T13:01:58Z"
       }
+    },
+    {
+      "description": "Senate Tabled",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,7 +271,22 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 241286,
-        "_version_id": 6
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248527.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248527,
+        "_version_id": 5
       }
     },
     {
@@ -315,6 +346,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T13:01:58Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

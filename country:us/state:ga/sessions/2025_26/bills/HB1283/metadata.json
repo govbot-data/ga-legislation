@@ -170,6 +170,30 @@
       "_processing": {
         "log_file_created": "2026-03-21T12:52:21Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted As Amended",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -228,6 +252,51 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 245336,
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "SFA to HB 1283",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248552.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248552,
+        "_version_id": 8
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 48 0067",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248482.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248482,
+        "_version_id": 7
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1A",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248485.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248485,
         "_version_id": 5
       }
     },
@@ -288,6 +357,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-21T12:52:21Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

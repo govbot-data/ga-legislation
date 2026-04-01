@@ -147,6 +147,28 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
+    },
+    {
+      "description": "Senate Tabled",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -213,6 +235,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 247377,
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 39 0531",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248230.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248230,
         "_version_id": 7
       }
     },
@@ -288,6 +325,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

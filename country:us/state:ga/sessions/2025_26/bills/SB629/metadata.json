@@ -49,6 +49,36 @@
       "_processing": {
         "log_file_created": "2026-03-24T13:14:39Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported  By Substitute",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "State and Local Governmental Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,6 +93,36 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "As Passed Senate",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248237.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248237,
+        "_version_id": 6
+      }
+    },
+    {
+      "note": "Committee Sub LC 61 0510S",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248108.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248108,
+        "_version_id": 5
+      }
+    },
     {
       "note": "As introduced LC 61 0316",
       "links": [
@@ -120,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-24T13:14:39Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }

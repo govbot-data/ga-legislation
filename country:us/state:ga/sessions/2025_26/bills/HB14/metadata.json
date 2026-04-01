@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "STATE GOVERNMENT"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb14"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -201,6 +207,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:00Z"
       }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-01T13:25:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -311,6 +327,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:00Z"
+    "logs_latest_update": "2026-04-01T13:25:03Z"
   }
 }
