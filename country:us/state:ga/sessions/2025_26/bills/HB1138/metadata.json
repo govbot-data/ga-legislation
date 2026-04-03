@@ -181,6 +181,50 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:25:03Z"
       }
+    },
+    {
+      "description": "Senate Taken from Table",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -236,6 +280,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SCSFA to HB 1138",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248777.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248777,
+        "_version_id": 12
+      }
+    },
+    {
       "note": "Sen Ctee Sub LC 52 1108S",
       "links": [
         {
@@ -247,6 +306,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 247267,
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 52 0103",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248738.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248738,
         "_version_id": 9
       }
     },
@@ -337,6 +411,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-03T13:06:32Z"
   }
 }

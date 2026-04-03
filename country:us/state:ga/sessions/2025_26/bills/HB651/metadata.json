@@ -241,6 +241,16 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
       }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -341,7 +351,7 @@
       }
     },
     {
-      "note": "SCSFA to HB 615",
+      "note": "SCSFA to HB 651",
       "links": [
         {
           "url": "http://www.legis.ga.gov/Legislation/20252026/239179.pdf",
@@ -457,6 +467,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-04-03T13:06:32Z"
   }
 }

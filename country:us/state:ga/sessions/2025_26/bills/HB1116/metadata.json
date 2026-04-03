@@ -261,6 +261,16 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:25:03Z"
       }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub As Amended",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -315,6 +325,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Floor Amendment AM 59 0038",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248959.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248959,
+        "_version_id": 15
+      }
+    },
     {
       "note": "Sen Ctee Sub :LC 59 0475S",
       "links": [
@@ -432,6 +457,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-03T13:06:32Z"
   }
 }

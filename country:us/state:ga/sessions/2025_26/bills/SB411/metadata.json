@@ -184,6 +184,30 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
       }
+    },
+    {
+      "description": "House Third Readers",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "House Passed/Adopted By Substitute",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -214,6 +238,36 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 46 1567S/hrcs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248733.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248733,
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 46 0129",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/249021.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249021,
+        "_version_id": 9
+      }
+    },
     {
       "note": "LC 46 1557S/hss",
       "links": [
@@ -301,6 +355,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-04-03T13:06:32Z"
   }
 }

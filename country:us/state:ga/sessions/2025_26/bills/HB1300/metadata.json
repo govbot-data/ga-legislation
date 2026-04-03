@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "EDUCATION"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-hb1300"
+    }
+  ],
   "actions": [
     {
       "description": "House Hopper",
@@ -50,6 +56,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-19T13:08:18Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Higher Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:31Z"
       }
     }
   ],
@@ -106,6 +130,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "LC 61 0517S/hs",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248736.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248736,
+        "_version_id": 4
+      }
+    },
+    {
       "note": "LC 61 0381/a",
       "links": [
         {
@@ -147,6 +186,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-19T13:08:18Z"
+    "logs_latest_update": "2026-04-03T13:06:31Z"
   }
 }

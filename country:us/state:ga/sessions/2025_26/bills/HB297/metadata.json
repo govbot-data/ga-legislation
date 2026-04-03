@@ -227,6 +227,26 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:25:03Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:31Z"
+      }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub As Amended",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -281,6 +301,66 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Floor Amendment AM 39 0549",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248743.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248743,
+        "_version_id": 16
+      }
+    },
+    {
+      "note": "Sen Floor Amend 2 AM 39 0570",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/249030.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249030,
+        "_version_id": 14
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 39 0565",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/249017.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249017,
+        "_version_id": 12
+      }
+    },
+    {
+      "note": "SCSFA to HB 297",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248574.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248574,
+        "_version_id": 10
+      }
+    },
     {
       "note": "Sen Ctee Sub LC 39 5123",
       "links": [
@@ -383,6 +463,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-03T13:06:31Z"
   }
 }

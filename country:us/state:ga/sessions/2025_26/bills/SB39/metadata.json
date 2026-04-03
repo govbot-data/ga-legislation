@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "PUBLIC OFFICERS AND EMPLOYEES"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb39"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -159,6 +165,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-11-27T10:18:02Z"
+      }
+    },
+    {
+      "description": "House Committee Favorably Reported By Substitute",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
       }
     }
   ],
@@ -316,14 +340,6 @@
       "organization_id": null
     },
     {
-      "name": "Clint Dixon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Clint Dixon\"}",
-      "organization_id": null
-    },
-    {
       "name": "Russ Goodman",
       "classification": "primary",
       "entity_type": "person",
@@ -372,6 +388,14 @@
       "organization_id": null
     },
     {
+      "name": "Clint Dixon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Clint Dixon\"}",
+      "organization_id": null
+    },
+    {
       "name": "Timothy Bearden",
       "classification": "primary",
       "entity_type": "person",
@@ -398,6 +422,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "LC 46 1566S/hss",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248687.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248687,
+        "_version_id": 13
+      }
+    },
     {
       "note": "LC 46 1248S/hss",
       "links": [
@@ -515,6 +554,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:02Z"
+    "logs_latest_update": "2026-04-03T13:06:32Z"
   }
 }

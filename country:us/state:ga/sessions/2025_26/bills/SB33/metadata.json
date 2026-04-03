@@ -171,6 +171,26 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:25:03Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub As Amended",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -309,6 +329,66 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 247327,
+        "_version_id": 16
+      }
+    },
+    {
+      "note": "Sen Floor Amend 3 AM 59 0041",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/249032.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249032,
+        "_version_id": 14
+      }
+    },
+    {
+      "note": "Sen Floor Amend 2 AM 56 0101",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248899.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248899,
+        "_version_id": 11
+      }
+    },
+    {
+      "note": "Sen Floor Amend 2A AM 56 0102",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248894.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248894,
+        "_version_id": 9
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 44 0292",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248783.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248783,
         "_version_id": 7
       }
     },
@@ -384,6 +464,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-03T13:06:32Z"
   }
 }

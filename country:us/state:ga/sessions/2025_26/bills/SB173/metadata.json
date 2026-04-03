@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "CIVIL PRACTICE"
+  ],
   "abstracts": [
     {
       "note": "description",
@@ -14,7 +16,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb173"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -185,6 +191,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:18:03Z"
       }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub As Amended",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -251,6 +267,21 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 237442,
+        "_version_id": 8
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1 AM 49 0334",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248951.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248951,
         "_version_id": 6
       }
     },
@@ -326,6 +357,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:18:03Z"
+    "logs_latest_update": "2026-04-03T13:06:32Z"
   }
 }

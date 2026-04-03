@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025_26",
   "identifier": "SR 1088",
-  "title": "Burgess, Flossie Mae Grant Williams",
+  "title": "Burgess, Flossie Mae Grant Williams; honor",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -30,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-01T13:25:03Z"
+      }
+    },
+    {
+      "description": "Senate Read and Adopted",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
       }
     }
   ],
@@ -95,6 +107,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-03T13:06:32Z"
   }
 }

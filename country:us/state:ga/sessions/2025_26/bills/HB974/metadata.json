@@ -223,13 +223,33 @@
       }
     },
     {
-      "description": "Senate Conference Committee Appointed 19th, 31st, 20th",
+      "description": "Senate Conference Committee Appointed",
       "date": "2026-03-31",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-04-01T13:25:03Z"
+        "log_file_created": "2026-04-03T13:06:31Z"
+      }
+    },
+    {
+      "description": "Senate Conference Committee Report Adopted",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:31Z"
+      }
+    },
+    {
+      "description": "House Conference Committee Report Adopted",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:31Z"
       }
     }
   ],
@@ -311,6 +331,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-03T13:06:31Z"
   }
 }

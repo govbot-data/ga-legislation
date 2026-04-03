@@ -160,6 +160,50 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:25:03Z"
       }
+    },
+    {
+      "description": "Senate Taken from Table",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted By Substitute",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "House Agreed Senate Amend or Sub",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -215,6 +259,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SCSFA to HB 1409",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248870.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248870,
+        "_version_id": 11
+      }
+    },
+    {
       "note": "Sen Ctee Sub LC 48 1834S",
       "links": [
         {
@@ -226,7 +285,52 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 246534,
+        "_version_id": 10
+      }
+    },
+    {
+      "note": "Sen Floor Amend 2",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248778.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248778,
+        "_version_id": 8
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248780.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248780,
         "_version_id": 7
+      }
+    },
+    {
+      "note": "Sen Floor Amend 1A",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248779.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248779,
+        "_version_id": 6
       }
     },
     {
@@ -301,6 +405,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-03T13:06:32Z"
   }
 }
