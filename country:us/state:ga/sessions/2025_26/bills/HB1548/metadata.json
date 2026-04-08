@@ -145,6 +145,18 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:25:03Z"
       }
+    },
+    {
+      "description": "House Sent to Governor",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:22:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -159,6 +171,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "HB 1548/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248270.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248270,
+        "_version_id": 4
+      }
+    },
     {
       "note": "LC 47 4167/a",
       "links": [
@@ -216,6 +243,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-08T13:22:26Z"
   }
 }

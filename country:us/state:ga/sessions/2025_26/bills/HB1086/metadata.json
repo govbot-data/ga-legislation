@@ -171,6 +171,18 @@
       "_processing": {
         "log_file_created": "2026-03-21T12:52:21Z"
       }
+    },
+    {
+      "description": "House Sent to Governor",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:22:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -225,6 +237,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "HB 1086/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246937.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246937,
+        "_version_id": 6
+      }
+    },
     {
       "note": "LC 63 0086S/hcs",
       "links": [
@@ -297,6 +324,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-21T12:52:21Z"
+    "logs_latest_update": "2026-04-08T13:22:26Z"
   }
 }

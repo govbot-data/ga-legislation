@@ -213,6 +213,18 @@
       "_processing": {
         "log_file_created": "2026-03-28T12:57:40Z"
       }
+    },
+    {
+      "description": "House Sent to Governor",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:22:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -267,6 +279,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "HB 369/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247976.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247976,
+        "_version_id": 8
+      }
+    },
     {
       "note": "Sen Ctee Sub LC 47 4282S",
       "links": [
@@ -354,6 +381,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T12:57:40Z"
+    "logs_latest_update": "2026-04-08T13:22:26Z"
   }
 }

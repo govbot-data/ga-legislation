@@ -183,6 +183,18 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
       }
+    },
+    {
+      "description": "House Sent to Governor",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-08T13:22:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -221,6 +233,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "HB 519/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247670.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247670,
+        "_version_id": 4
+      }
+    },
     {
       "note": "LC 62 0093/a",
       "links": [
@@ -278,6 +305,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-04-08T13:22:26Z"
   }
 }
