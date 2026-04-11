@@ -149,16 +149,6 @@
       }
     },
     {
-      "description": "Senate Agreed House Amend or Sub",
-      "date": "2026-04-02",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-03T13:06:32Z"
-      }
-    },
-    {
       "description": "House Third Readers",
       "date": "2026-04-02",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -180,6 +170,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "Senate Sent to Governor",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T13:01:02Z"
       }
     }
   ],
@@ -228,6 +240,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SR 624/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/249068.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249068,
+        "_version_id": 59
+      }
+    },
+    {
       "note": "LC 39 5132S/hss",
       "links": [
         {
@@ -239,7 +266,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 248198,
-        "_version_id": 9
+        "_version_id": 57
       }
     },
     {
@@ -254,11 +281,11 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 245035,
-        "_version_id": 7
+        "_version_id": 55
       }
     },
     {
-      "note": "Committee Sub LC 39 4985",
+      "note": "Committee Sub LC 39 4985S",
       "links": [
         {
           "url": "http://www.legis.ga.gov/Legislation/20252026/243961.pdf",
@@ -269,7 +296,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 243961,
-        "_version_id": 6
+        "_version_id": 54
       }
     },
     {
@@ -284,7 +311,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 245025,
-        "_version_id": 4
+        "_version_id": 52
       }
     },
     {
@@ -299,7 +326,7 @@
       "classification": "",
       "extras": {
         "_internal_document_id": 240458,
-        "_version_id": 2
+        "_version_id": 50
       }
     }
   ],
@@ -329,6 +356,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T13:06:32Z"
+    "logs_latest_update": "2026-04-11T13:01:02Z"
   }
 }

@@ -18,7 +18,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ga-2025_26-sb420"
+    }
+  ],
   "actions": [
     {
       "description": "Senate Hopper",
@@ -179,6 +183,18 @@
       "_processing": {
         "log_file_created": "2026-03-13T13:01:20Z"
       }
+    },
+    {
+      "description": "Senate Sent to Governor",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T13:01:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -234,6 +250,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SB 420/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/245886.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 245886,
+        "_version_id": 5
+      }
+    },
+    {
       "note": "As introduced LC 44 3323",
       "links": [
         {
@@ -275,6 +306,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-13T13:01:20Z"
+    "logs_latest_update": "2026-04-11T13:01:02Z"
   }
 }

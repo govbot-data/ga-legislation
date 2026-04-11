@@ -218,6 +218,18 @@
       "_processing": {
         "log_file_created": "2026-03-26T13:18:49Z"
       }
+    },
+    {
+      "description": "Senate Sent to Governor",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T13:01:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -264,6 +276,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "SB 195/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/247657.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 247657,
+        "_version_id": 9
+      }
+    },
     {
       "note": "LC 46 1376S/hss",
       "links": [
@@ -351,6 +378,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-26T13:18:49Z"
+    "logs_latest_update": "2026-04-11T13:01:02Z"
   }
 }

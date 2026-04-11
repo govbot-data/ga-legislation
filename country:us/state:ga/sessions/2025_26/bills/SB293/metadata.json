@@ -247,6 +247,18 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:25:03Z"
       }
+    },
+    {
+      "description": "Senate Sent to Governor",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T13:01:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -542,6 +554,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "SB 293/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248648.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248648,
+        "_version_id": 14
+      }
+    },
+    {
       "note": "LC 39 5060S/hss",
       "links": [
         {
@@ -673,6 +700,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-11T13:01:02Z"
   }
 }

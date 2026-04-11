@@ -147,6 +147,18 @@
       "_processing": {
         "log_file_created": "2026-03-19T13:07:31Z"
       }
+    },
+    {
+      "description": "Senate Sent to Governor",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-11T13:01:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -161,6 +173,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "SB 574/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/246546.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 246546,
+        "_version_id": 6
+      }
+    },
     {
       "note": "As Passed Senate",
       "links": [
@@ -233,6 +260,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-19T13:07:31Z"
+    "logs_latest_update": "2026-04-11T13:01:02Z"
   }
 }
