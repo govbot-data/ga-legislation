@@ -201,6 +201,18 @@
       "_processing": {
         "log_file_created": "2026-04-03T13:06:31Z"
       }
+    },
+    {
+      "description": "House Sent to Governor",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:29:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,6 +267,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "HB 858/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/249082.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249082,
+        "_version_id": 10
+      }
+    },
     {
       "note": "Floor Amendment AM 47 0191",
       "links": [
@@ -357,6 +384,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T13:06:31Z"
+    "logs_latest_update": "2026-04-14T13:29:05Z"
   }
 }

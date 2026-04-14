@@ -217,6 +217,18 @@
       "_processing": {
         "log_file_created": "2026-04-01T13:25:03Z"
       }
+    },
+    {
+      "description": "House Sent to Governor",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:29:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -255,6 +267,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "HB 14/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/248621.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 248621,
+        "_version_id": 7
+      }
+    },
     {
       "note": "Sen Ctee sub LC 59 0174S",
       "links": [
@@ -327,6 +354,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-01T13:25:03Z"
+    "logs_latest_update": "2026-04-14T13:29:05Z"
   }
 }

@@ -196,16 +196,6 @@
       }
     },
     {
-      "description": "Senate Agreed House Amend or Sub",
-      "date": "2026-04-02",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-04-03T13:06:32Z"
-      }
-    },
-    {
       "description": "Senate Taken from Table",
       "date": "2026-04-02",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -247,6 +237,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "Senate Agreed House Amend or Sub",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-03T13:06:32Z"
+      }
+    },
+    {
+      "description": "House Sent to Governor",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-14T13:29:05Z"
       }
     }
   ],
@@ -302,6 +314,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "HB 295/AP*",
+      "links": [
+        {
+          "url": "http://www.legis.ga.gov/Legislation/20252026/249087.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "_internal_document_id": 249087,
+        "_version_id": 22
+      }
+    },
     {
       "note": "Floor Amendment AM 44 0295",
       "links": [
@@ -479,6 +506,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-03T13:06:32Z"
+    "logs_latest_update": "2026-04-14T13:29:05Z"
   }
 }
