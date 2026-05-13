@@ -157,6 +157,30 @@
       "_processing": {
         "log_file_created": "2026-04-11T13:01:02Z"
       }
+    },
+    {
+      "description": "Senate Date Signed by Governor",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:36:05Z"
+      }
+    },
+    {
+      "description": "Act 609",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:36:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -187,7 +211,7 @@
       }
     },
     {
-      "note": "As Pased Senate",
+      "note": "As Passed Senate",
       "links": [
         {
           "url": "http://www.legis.ga.gov/Legislation/20252026/237550.pdf",
@@ -233,7 +257,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Acts of Georgia, 2026",
+      "citation": "Act 609",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
@@ -258,6 +291,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T13:01:02Z"
+    "logs_latest_update": "2026-05-13T14:36:05Z"
   }
 }

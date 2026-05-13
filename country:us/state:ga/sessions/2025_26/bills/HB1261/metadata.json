@@ -196,6 +196,30 @@
       "_processing": {
         "log_file_created": "2026-04-08T13:22:26Z"
       }
+    },
+    {
+      "description": "House Date Signed by Governor",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:36:05Z"
+      }
+    },
+    {
+      "description": "Act 483",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-13T14:36:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -282,7 +306,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Acts of Georgia, 2026",
+      "citation": "Act 483",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
@@ -307,6 +340,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-08T13:22:26Z"
+    "logs_latest_update": "2026-05-13T14:36:05Z"
   }
 }
