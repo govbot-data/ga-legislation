@@ -216,6 +216,30 @@
       "_processing": {
         "log_file_created": "2026-04-14T13:29:05Z"
       }
+    },
+    {
+      "description": "House Date Signed by Governor",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:24:19Z"
+      }
+    },
+    {
+      "description": "Act 719",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:24:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -369,7 +393,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Acts of Georgia, 2026",
+      "citation": "Act 719",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
@@ -394,6 +427,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-14T13:29:05Z"
+    "logs_latest_update": "2026-05-16T13:24:19Z"
   }
 }

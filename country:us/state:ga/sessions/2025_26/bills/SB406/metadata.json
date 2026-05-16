@@ -193,6 +193,40 @@
       "_processing": {
         "log_file_created": "2026-04-11T13:01:02Z"
       }
+    },
+    {
+      "description": "Senate Date Signed by Governor",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:24:19Z"
+      }
+    },
+    {
+      "description": "Act 715",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:24:19Z"
+      }
+    },
+    {
+      "description": "Effective Date",
+      "date": "2027-01-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-16T13:24:19Z"
+      }
     }
   ],
   "sponsorships": [
@@ -480,7 +514,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Acts of Georgia, 2026",
+      "citation": "Act 715",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl",
@@ -505,6 +548,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-11T13:01:02Z"
+    "logs_latest_update": "2026-05-16T13:24:19Z"
   }
 }
