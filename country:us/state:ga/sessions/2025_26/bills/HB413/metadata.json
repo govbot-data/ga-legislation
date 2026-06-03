@@ -7,7 +7,10 @@
     "bill"
   ],
   "subject": [
-    "AGRICULTURE"
+    "AGRICULTURE",
+    "HEALTH",
+    "PROPERTY",
+    "WILLS, TRUSTS, AND ADMINISTRATION OF ESTATES"
   ],
   "abstracts": [
     {
@@ -217,6 +220,16 @@
       "_processing": {
         "log_file_created": "2026-04-25T13:06:57Z"
       }
+    },
+    {
+      "description": "Effective Date",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-03T16:50:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -344,6 +357,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-25T13:06:57Z"
+    "logs_latest_update": "2026-06-03T16:50:37Z"
   }
 }
