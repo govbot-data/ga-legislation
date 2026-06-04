@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025_26",
   "identifier": "HB 1005",
-  "title": "Austell, City of; provide for a city manager",
+  "title": "Austell, City of; provide for a city manager; revise powers and duties of city council committees, the mayor, and department directors",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -181,6 +181,16 @@
       "_processing": {
         "log_file_created": "2026-05-13T14:36:05Z"
       }
+    },
+    {
+      "description": "Effective Date",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-04T15:16:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -284,6 +294,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-13T14:36:05Z"
+    "logs_latest_update": "2026-06-04T15:16:54Z"
   }
 }
