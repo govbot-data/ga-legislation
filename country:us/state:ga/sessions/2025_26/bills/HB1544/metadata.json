@@ -205,6 +205,16 @@
       "_processing": {
         "log_file_created": "2026-05-13T14:36:05Z"
       }
+    },
+    {
+      "description": "Effective Date",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-11T16:03:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -300,6 +310,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-13T14:36:05Z"
+    "logs_latest_update": "2026-06-11T16:03:12Z"
   }
 }
