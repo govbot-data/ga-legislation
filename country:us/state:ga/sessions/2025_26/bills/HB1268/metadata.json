@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025_26",
   "identifier": "HB 1268",
-  "title": "Official Code of Georgia Annotated; revise, modernize and correct errors in omissions",
+  "title": "Official Code of Georgia Annotated; revise, modernize and correct errors or omissions",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -223,6 +223,16 @@
       "_processing": {
         "log_file_created": "2026-05-16T13:24:19Z"
       }
+    },
+    {
+      "description": "Effective Date",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T14:01:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -327,6 +337,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-16T13:24:19Z"
+    "logs_latest_update": "2026-06-13T14:01:40Z"
   }
 }

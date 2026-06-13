@@ -9,6 +9,7 @@
   "subject": [
     "CRIMES AND OFFENSES (CRIMINAL CODE)",
     "HANDICAPPED PERSONS",
+    "LAW ENFORCEMENT OFFICERS AND AGENCIES",
     "MENTAL HEALTH"
   ],
   "abstracts": [
@@ -219,6 +220,16 @@
       "_processing": {
         "log_file_created": "2026-05-13T14:36:05Z"
       }
+    },
+    {
+      "description": "Effective Date",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-13T14:01:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -376,6 +387,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-05-13T14:36:05Z"
+    "logs_latest_update": "2026-06-13T14:01:40Z"
   }
 }
