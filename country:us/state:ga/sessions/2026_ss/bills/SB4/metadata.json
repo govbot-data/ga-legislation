@@ -51,6 +51,54 @@
       "_processing": {
         "log_file_created": "2026-06-20T14:05:01Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-06-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "State and Local Governmental Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-21T14:12:00Z"
+      }
+    },
+    {
+      "description": "Senate Local Lost",
+      "date": "2026-06-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-21T14:12:00Z"
+      }
+    },
+    {
+      "description": "Senate Reconsidered",
+      "date": "2026-06-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-21T14:12:00Z"
+      }
+    },
+    {
+      "description": "Senate Reconsidered Lost",
+      "date": "2026-06-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-21T14:12:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +170,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-20T14:05:01Z"
+    "logs_latest_update": "2026-06-21T14:12:00Z"
   }
 }
