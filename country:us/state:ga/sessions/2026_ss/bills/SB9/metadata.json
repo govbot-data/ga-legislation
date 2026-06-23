@@ -51,6 +51,64 @@
       "_processing": {
         "log_file_created": "2026-06-21T14:12:00Z"
       }
+    },
+    {
+      "description": "Senate Committee Favorably Reported",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "State and Local Governmental Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-23T14:49:49Z"
+      }
+    },
+    {
+      "description": "Senate Local Lost",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-23T14:49:49Z"
+      }
+    },
+    {
+      "description": "Senate Notice to Reconsider",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-23T14:49:49Z"
+      }
+    },
+    {
+      "description": "Senate Reconsidered",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-23T14:49:49Z"
+      }
+    },
+    {
+      "description": "Senate Tabled",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-23T14:49:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-21T14:12:00Z"
+    "logs_latest_update": "2026-06-23T14:49:49Z"
   }
 }

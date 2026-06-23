@@ -108,6 +108,26 @@
       "_processing": {
         "log_file_created": "2026-06-21T14:12:00Z"
       }
+    },
+    {
+      "description": "House Reconsidered",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-23T14:49:49Z"
+      }
+    },
+    {
+      "description": "House Lost Reconsidered Bill/Resolution",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-23T14:49:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -219,6 +239,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-21T14:12:00Z"
+    "logs_latest_update": "2026-06-23T14:49:49Z"
   }
 }
