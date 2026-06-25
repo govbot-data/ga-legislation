@@ -1,6 +1,6 @@
 {
   "identifier": "",
-  "motion_text": "House Vote #13 - 2026 Special Session",
+  "motion_text": "House Vote #14 - 2026 Special Session",
   "motion_classification": [
     "passage"
   ],
@@ -8,7 +8,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "2026_ss",
-  "bill": "e631e0fe-6fbe-11f1-8ee0-82119cd4102a",
+  "bill": "ddc42faa-7084-11f1-b0a3-d6ebe86ad93b",
   "bill_action": null,
   "bill_identifier": "HB 82",
   "votes": [
@@ -607,7 +607,7 @@
       "note": "95TH"
     },
     {
-      "option": "other",
+      "option": "yes",
       "voter_name": "LAHOOD",
       "voter_id": "~{\"name\": \"LAHOOD\"}",
       "note": "175TH"
@@ -733,7 +733,7 @@
       "note": "126TH"
     },
     {
-      "option": "other",
+      "option": "no",
       "voter_name": "NEAL",
       "voter_id": "~{\"name\": \"NEAL\"}",
       "note": "79TH"
@@ -1090,15 +1090,15 @@
   "counts": [
     {
       "option": "yes",
-      "value": 96
+      "value": 97
     },
     {
       "option": "no",
-      "value": 71
+      "value": 72
     },
     {
       "option": "other",
-      "value": 13
+      "value": 11
     }
   ],
   "sources": [
@@ -1108,5 +1108,5 @@
     }
   ],
   "extras": {},
-  "dedupe_key": "HB 82 in 2026_ss#2026-06-23#House Vote #13 - 2026 Special Session"
+  "dedupe_key": "HB 82 in 2026_ss#2026-06-23#House Vote #14 - 2026 Special Session"
 }

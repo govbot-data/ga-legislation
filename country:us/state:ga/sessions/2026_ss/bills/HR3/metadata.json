@@ -171,6 +171,30 @@
       "_processing": {
         "log_file_created": "2026-06-23T14:49:49Z"
       }
+    },
+    {
+      "description": "Senate Third Read",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T14:34:17Z"
+      }
+    },
+    {
+      "description": "Senate Passed/Adopted",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-25T14:34:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -259,6 +283,6 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-23T14:49:49Z"
+    "logs_latest_update": "2026-06-25T14:34:17Z"
   }
 }
